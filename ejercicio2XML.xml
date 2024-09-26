@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<correos>
+    <correo>
+        <destinatario type="para">Adiós@manuel.com</destinatario>
+        <destinatario type="cc">Juan@manuel.com</destinatario>
+        <destinatario type="cco">Pedro@manuel.com</destinatario>
+        <origen>hola@manuel.com</origen>
+        <mensaje>
+            <asunto>ASDASDaskhasldhaksdaklsdhaksds</asunto>
+            <cuerpo>BBBBBBBBBBBBBBBBBBBBBBBBBBBBBbb</cuerpo>
+        </mensaje>
+        <ficheros>
+            <fichero>imagen1.jpg</fichero>
+            <fichero>imagen2.jpg</fichero>
+        </ficheros>
+    </correo>
+</correos>
