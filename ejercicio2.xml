@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE partido [
+    <!ELEMENT partido (local, visitante)*>
+    <!ELEMENT local (#PCDATA)>
+    <!ATTLIST local goles NMTOKEN #REQUIRED>
+    <!ELEMENT visitante (#PCDATA)>
+    <!ATTLIST visitante goles NMTOKEN #REQUIRED>
+]>
+
+<partido>
+    <local goles="3">Vodka Juniors</local>
+    <visitante goles="3">Sparta da Risa</visitante>
+</partido>

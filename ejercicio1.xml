@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE partido [
+    <!ELEMENT partido (local, visitante, goleslocal, golesvisitante)>
+    <!ELEMENT local (#PCDATA)>
+    <!ELEMENT visitante (#PCDATA)>
+    <!ELEMENT goleslocal (#PCDATA)>
+    <!ELEMENT golesvisitante (#PCDATA)>
+]>
+
+<partido>
+    <local>Real Madrid</local>
+    <visitante>Barcelona</visitante>
+    <goleslocal>3</goleslocal>
+    <golesvisitante>1</golesvisitante>
+</partido>

@@ -82,3 +82,11 @@ Corregir los DTD con Atributos sin tocar los XML.
 - [Ejercicio 45](dtd_45.xml)
 
 [*DOCS*](docs/XML6.pdf)
+
+Crea los XML para que sigan los requerido por los ejemplos:
+
+- [Ejercicio 1](ejercicio1.xml)
+- [Ejercicio 2](ejercicio2.xml)
+- [Ejercicio 3](ejercicio3.xml)
+
+[*DOCS*](docs/XML7.pdf)

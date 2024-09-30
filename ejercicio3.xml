@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Partido [
+    <!ELEMENT Partido EMPTY>
+    <!ATTLIST Partido local NMTOKENS #REQUIRED>
+    <!ATTLIST Partido visitante NMTOKENS #REQUIRED>
+    <!ATTLIST Partido goleslocal NMTOKEN #REQUIRED>
+    <!ATTLIST Partido golesvisitante NMTOKEN #REQUIRED>
+]>
+
+<Partido local="Water de Munich" visitante="Esteaua es del grifo" goleslocal="4" golesvisitante="2"/>
