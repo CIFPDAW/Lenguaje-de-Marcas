@@ -18,7 +18,7 @@ Corrigue los siguientes XML:
 - [Ejercicio 6](ej1_06.xml)
 - [Ejercicio 7](ej1_07.xml)
 
-[*DOCS*](docs/Ejercicios1.pdf)
+[*DOCS*](docs/XML1.pdf)
 
 ---
 
@@ -30,7 +30,7 @@ Crea los XML para que sigan los requerido por los ejemplos:
 - [Ejercicio 2](ejercicio2XML.xml)
 - [Ejercicio 3](ejercicio3XML.xml)
 
-[*DOCS*](docs/practica1.pdf)
+[*DOCS*](docs/XML2.pdf)
 
 Corrige los XML para que sean validos con el DTD adjunto:
 
@@ -44,7 +44,7 @@ Corrige los XML para que sean validos con el DTD adjunto:
 - [Ejercicio 18](dtd_18.xml)
 - [Ejercicio 19](dtd_19.xml)
 
-[*DOCS*](docs/Ejercicio1.pdf)
+[*DOCS*](docs/XML3.pdf)
 
 Corrgie los DTD sin tocar los XML:
 
@@ -58,7 +58,7 @@ Corrgie los DTD sin tocar los XML:
 - [Ejercicio 28](dtd_28.xml)
 - [Ejercicio 29](dtd_29.xml)
 
-[*DOCS*](docs/Ejercicio2.pdf)
+[*DOCS*](docs/XML4.pdf)
 
 ---
 
@@ -72,10 +72,13 @@ Corregir los XML con Atributos para que sean validos con el DTD adjunto.
 - [Ejercicio 35](dtd_35.xml)
 - [Ejercicio 36](dtd_36.xml)
 
-[*DOCS*](docs/Ejercicio3.pdf)
+[*DOCS*](docs/XML5.pdf)
 
 Corregir los DTD con Atributos sin tocar los XML.
 - [Ejercicio 41](dtd_41.xml)
 - [Ejercicio 42](dtd_42.xml)
+- [Ejercicio 43](dtd_43.xml)
+- [Ejercicio 44](dtd_44.xml)
+- [Ejercicio 45](dtd_45.xml)
 
-[*DOCS*](docs/Ejercicio4.pdf)
+[*DOCS*](docs/XML6.pdf)
