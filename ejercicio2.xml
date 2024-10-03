@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE partido [
+<!DOCTYPE ligafutbol [
+    <!ELEMENT ligafutbol (partido+)>
     <!ELEMENT partido (local, visitante)*>
     <!ELEMENT local (#PCDATA)>
     <!ATTLIST local goles NMTOKEN #REQUIRED>
@@ -7,7 +8,17 @@
     <!ATTLIST visitante goles NMTOKEN #REQUIRED>
 ]>
 
-<partido>
-    <local goles="3">Vodka Juniors</local>
-    <visitante goles="3">Sparta da Risa</visitante>
-</partido>
+<ligafutbol>
+    <partido>
+        <local goles="3">Real Madrid</local>
+        <visitante goles="1">Barcelona</visitante>
+    </partido>
+    <partido>
+        <local goles="4">Water de Munich</local>
+        <visitante goles="2">Esteaua es del grifo</visitante>
+    </partido>
+    <partido>
+        <local goles="3">Vodka Juniors</local>
+        <visitante goles="3">Sparta da Risa</visitante>
+    </partido>
+</ligafutbol>
