@@ -1,0 +1,20 @@
+<!ELEMENT curriculums (CV+)>
+<!ELEMENT CV (DatosPersonales, Idiomas*)>
+<!ATTLIST CV dni CDATA #REQUIRED>
+<!ATTLIST CV fechacv CDATA #REQUIRED>
+<!ELEMENT DatosPersonales (nombre, apellido1, apellido2, fechanac, direccion+)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT apellido1 (#PCDATA)>
+<!ELEMENT apellido2 (#PCDATA)>
+<!ELEMENT fechanac (#PCDATA)>
+<!ELEMENT direccion (calle, localidad, codigopostal, pais)>
+<!ELEMENT calle (#PCDATA)>
+<!ELEMENT localidad (#PCDATA)>
+<!ELEMENT codigopostal (#PCDATA)>
+<!ELEMENT pais (#PCDATA)>
+<!ATTLIST direccion tipo (trabajo | particular) #REQUIRED>
+<!ELEMENT Idiomas (Idioma*)>
+<!ELEMENT Idioma (nombreidioma)>
+<!ELEMENT nombreidioma (#PCDATA)>
+<!ATTLIST Idioma nivel (alto | medio | bajo) #REQUIRED>
+<!ATTLIST Idioma caracter (materno | extranjero) #REQUIRED>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE curriculums SYSTEM "curriculum.dtd">
+<curriculums>
+    <CV dni="12345678" fechacv="03/10/2024">
+        <DatosPersonales>
+            <nombre>Pepe</nombre>
+            <apellido1>García</apellido1>
+            <apellido2>García</apellido2>
+            <fechanac>03/10/1990</fechanac>
+            <direccion tipo="trabajo">
+                <calle>Avda. de la Constitución</calle>
+                <localidad>Sevilla</localidad>
+                <codigopostal>41001</codigopostal>
+                <pais>España</pais>
+            </direccion>
+        </DatosPersonales>
+        <Idiomas>
+            <Idioma caracter="materno" nivel="medio">
+                <nombreidioma>inglés</nombreidioma>
+            </Idioma>
+            <Idioma caracter="extranjero" nivel="alto">
+                <nombreidioma>francés</nombreidioma>
+            </Idioma>
+        </Idiomas>
+    </CV>
+    <CV dni="87654321" fechacv="10/10/2001">
+        <DatosPersonales>
+            <nombre>Manuel</nombre>
+            <apellido1>García</apellido1>
+            <apellido2>García</apellido2>
+            <fechanac>10/10/1990</fechanac>
+            <direccion tipo="trabajo">
+                <calle>Avda. de la Constitución</calle>
+                <localidad>Sevilla</localidad>
+                <codigopostal>41001</codigopostal>
+                <pais>España</pais>
+            </direccion>
+        </DatosPersonales>
+        <Idiomas>
+            <Idioma caracter="materno" nivel="medio">
+                <nombreidioma>inglés</nombreidioma>
+            </Idioma>
+            <Idioma caracter="extranjero" nivel="alto">
+                <nombreidioma>francés</nombreidioma>
+            </Idioma>
+        </Idiomas>
+    </CV>
+    <CV dni="98765432" fechacv="10/10/2001">
+        <DatosPersonales>
+            <nombre>Manuel</nombre>
+            <apellido1>García</apellido1>
+            <apellido2>García</apellido2>
+            <fechanac>10/10/1990</fechanac>
+            <direccion tipo="trabajo">
+                <calle>Avda. de la Constitución</calle>
+                <localidad>Sevilla</localidad>
+                <codigopostal>41001</codigopostal>
+                <pais>España</pais>
+            </direccion>
+        </DatosPersonales>
+        <Idiomas>
+            <Idioma caracter="materno" nivel="medio">
+                <nombreidioma>inglés</nombreidioma>
+            </Idioma>
+            <Idioma caracter="extranjero" nivel="alto">
+                <nombreidioma>francés</nombreidioma>
+            </Idioma>
+        </Idiomas>
+    </CV>
+</curriculums>

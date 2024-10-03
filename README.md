@@ -90,3 +90,14 @@ Crea los XML para que sigan los requerido por los ejemplos:
 - [Ejercicio 3](XML7/ejercicio3.xml)
 
 [*DOCS*](docs/XML7.pdf)
+
+---
+
+### 3 de Octubre
+
+Realiza a partir de estos datos un XML con un DTD en otro documento y enlazalos.
+
+- [Ejercicio 1](XML8/libros.xml)
+- [Ejercicio 2](XML8/curriculum.xml)
+
+[*DOCS*](docs/XML8.pdf)
