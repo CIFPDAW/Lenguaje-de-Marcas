@@ -65,28 +65,28 @@ Corrgie los DTD sin tocar los XML:
 ### 30 de Septiembre
 
 Corregir los XML con Atributos para que sean validos con el DTD adjunto.
-- [Ejercicio 31](dtd_31.xml)
-- [Ejercicio 32](dtd_32.xml)
-- [Ejercicio 33](dtd_33.xml)
-- [Ejercicio 34](dtd_34.xml)
-- [Ejercicio 35](dtd_35.xml)
-- [Ejercicio 36](dtd_36.xml)
+- [Ejercicio 31](XML5/dtd_31.xml)
+- [Ejercicio 32](XML5/dtd_32.xml)
+- [Ejercicio 33](XML5/dtd_33.xml)
+- [Ejercicio 34](XML5/dtd_34.xml)
+- [Ejercicio 35](XML5/dtd_35.xml)
+- [Ejercicio 36](XML5/dtd_36.xml)
 
 [*DOCS*](docs/XML5.pdf)
 
 Corregir los DTD con Atributos sin tocar los XML.
-- [Ejercicio 41](dtd_41.xml)
-- [Ejercicio 42](dtd_42.xml)
-- [Ejercicio 43](dtd_43.xml)
-- [Ejercicio 44](dtd_44.xml)
-- [Ejercicio 45](dtd_45.xml)
+- [Ejercicio 41](XML6/dtd_41.xml)
+- [Ejercicio 42](XML6/dtd_42.xml)
+- [Ejercicio 43](XML6/dtd_43.xml)
+- [Ejercicio 44](XML6/dtd_44.xml)
+- [Ejercicio 45](XML6/dtd_45.xml)
 
 [*DOCS*](docs/XML6.pdf)
 
 Crea los XML para que sigan los requerido por los ejemplos:
 
-- [Ejercicio 1](ejercicio1.xml)
-- [Ejercicio 2](ejercicio2.xml)
-- [Ejercicio 3](ejercicio3.xml)
+- [Ejercicio 1](XML7/ejercicio1.xml)
+- [Ejercicio 2](XML7/ejercicio2.xml)
+- [Ejercicio 3](XML7/ejercicio3.xml)
 
 [*DOCS*](docs/XML7.pdf)
