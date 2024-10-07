@@ -101,3 +101,13 @@ Realiza a partir de estos datos un XML con un DTD en otro documento y enlazalos.
 - [Ejercicio 2](XML8/curriculum.xml)
 
 [*DOCS*](docs/XML8.pdf)
+
+---
+
+### 7 de Octubre
+
+Realiza el DTD para esta cartelera siguiendo las intrucciones del PDF, no se puede modificar el XML.
+
+- [Ejercicio 1](XML9/cartelera.xml)
+
+[*DOCS*](docs/XML9.pdf)
