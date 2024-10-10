@@ -111,3 +111,13 @@ Realiza el DTD para esta cartelera siguiendo las intrucciones del PDF, no se pue
 - [Ejercicio 1](XML9/cartelera.xml)
 
 [*DOCS*](docs/XML9.pdf)
+
+---
+
+### 10 de Oct
+
+Realiza el DTD y XML para el esquema descrito.
+
+- [Ejercicio 1](XML10/personas.xml)
+
+[*DOCS*](docs/XML10.pdf)
