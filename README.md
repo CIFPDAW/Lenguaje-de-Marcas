@@ -119,5 +119,7 @@ Realiza el DTD para esta cartelera siguiendo las intrucciones del PDF, no se pue
 Realiza el DTD y XML para el esquema descrito.
 
 - [Ejercicio 1](XML10/personas.xml)
+- [Ejercicio 2](XML10/ejerciciosXPATH1.xml) - [Resuelto](XML10/Enuinciados1.txt)
+- [Ejercicio 3](XML10/ejerciciosXPATH2.xml) - [Resuelto](XML10/Enuinciados2.txt)
 
 [*DOCS*](docs/XML10.pdf)
