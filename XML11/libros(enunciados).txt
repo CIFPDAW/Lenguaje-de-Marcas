@@ -1,0 +1,30 @@
+﻿Ejercicios de Xpath 
+1.-  Autores cuyo apellido sea DATE
+/libros/libro/autor[apellidos='DATE']
+
+ 2.- Libros con mas de un autor
+/libros/libro[count(autor) > 1]           
+
+ 3.- Libros editados en 1998 y en 2005
+/libros/libro[año=1998 or año=2005]              
+
+ 4.- Todos los autores
+/libros/libro/autor          
+
+5.- Todos los valores del atributo id
+/libros/libro/@id
+
+ 6.- Libro que ocupa la tercera posicion
+/libros/libro[3]
+
+ 7.- Penuntimo autor del tercer libro
+/libros/libro[3]/autor[position() = last() - 1]
+
+ 8.- Los dos primeros autores del tercer libro
+/libros/libro[3]/autor[position() <= 2]
+
+ 9.- Libros que tienen en atributo id mayor que 2.
+/libros/libro[@id > 2]
+
+ 10.- Libros editados entre 1998 y 2005
+/libros/libro[año >= 1998 and año <= 2005]

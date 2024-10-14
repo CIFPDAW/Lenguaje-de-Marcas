@@ -1,0 +1,23 @@
+﻿Cantidades de todos los elementos peso.
+/inventario/producto/peso/text()
+
+El peso del ultimo elemento.
+/inventario/producto[last()]/peso/text()
+
+Las distintas unidades en las que se han almacenado los pesos.
+/inventario/producto/peso/@unidad
+
+El penúltimo codigo.
+/inventario/producto[position() = last() - 1]/@codigo
+
+El peso del elemento cuyo codigo sea AAA-111.
+/inventario/producto[@codigo='AAA-111']/peso/text()
+
+El nombre de los productos que hayan puesto el peso en gramos.
+/inventario/producto[peso/@unidad='g']/nombre/text()
+
+El codigo de los productos cuyo nombre sea Monitor.
+/inventario/producto[nombre='Monitor']/@codigo
+
+El codigo de los productos que pesen mas de un cuarto de kilo.
+/inventario/producto[peso[@unidad='kg' and . > 0.25] or peso[@unidad='g' and . > 250]]/@codigo

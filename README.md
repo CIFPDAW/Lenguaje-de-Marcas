@@ -116,10 +116,20 @@ Realiza el DTD para esta cartelera siguiendo las intrucciones del PDF, no se pue
 
 ### 10 de Oct
 
-Realiza el DTD y XML para el esquema descrito.
+Realiza el DTD y XML para el esquema descrito. Realiza estos XPATH en los XML adjuntos.
 
 - [Ejercicio 1](XML10/personas.xml)
 - [Ejercicio 2](XML10/ejerciciosXPATH1.xml) - [Resuelto](XML10/Enuinciados1.txt)
 - [Ejercicio 3](XML10/ejerciciosXPATH2.xml) - [Resuelto](XML10/Enuinciados2.txt)
 
 [*DOCS*](docs/XML10.pdf)
+
+---
+
+### 14 de Oct
+
+Realiza estos XPATH para estos XML, comprobando que funcionen.
+
+- [Ejercicio 1](XML11/banco.xml) - [Resuelto](XML11/banco(enunciados).txt)
+- [Ejercicio 2](XML11/inventario.xml) - [Resuelto](XML11/inventario(enunciados).txt)
+- [Ejercicio 3](XML11/libros.xml) - [Resuelto](XML11/libros(enunciados).txt)
