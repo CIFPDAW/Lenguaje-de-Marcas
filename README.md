@@ -119,8 +119,8 @@ Realiza el DTD para esta cartelera siguiendo las intrucciones del PDF, no se pue
 Realiza el DTD y XML para el esquema descrito. Realiza estos XPATH en los XML adjuntos.
 
 - [Ejercicio 1](XML10/personas.xml)
-- [Ejercicio 2](XML10/ejerciciosXPATH1.xml) - [Resuelto](XML10/Enuinciados1.txt)
-- [Ejercicio 3](XML10/ejerciciosXPATH2.xml) - [Resuelto](XML10/Enuinciados2.txt)
+- [Ejercicio 2](XPATH1/ejerciciosXPATH1.xml) - [Resuelto](XML10/Enuinciados1.txt)
+- [Ejercicio 3](XPATH1/ejerciciosXPATH2.xml) - [Resuelto](XML10/Enuinciados2.txt)
 
 [*DOCS*](docs/XML10.pdf)
 
@@ -130,6 +130,14 @@ Realiza el DTD y XML para el esquema descrito. Realiza estos XPATH en los XML ad
 
 Realiza estos XPATH para estos XML, comprobando que funcionen.
 
-- [Ejercicio 1](XML11/banco.xml) - [Resuelto](XML11/banco(enunciados).txt)
-- [Ejercicio 2](XML11/inventario.xml) - [Resuelto](XML11/inventario(enunciados).txt)
-- [Ejercicio 3](XML11/libros.xml) - [Resuelto](XML11/libros(enunciados).txt)
+- [Ejercicio 1](XPATH2/banco.xml) - [Resuelto](XML11/banco(enunciados).txt)
+- [Ejercicio 2](XPATH2/inventario.xml) - [Resuelto](XML11/inventario(enunciados).txt)
+- [Ejercicio 3](XPATH2/libros.xml) - [Resuelto](XML11/libros(enunciados).txt)
+
+---
+
+### 17 de Oct
+
+Realizar estos XPATH para estos XML, comprobando que funcionen.
+
+- [Ejercicio 1](XPATH3/bailes.xml) - [Resuelto](XML12/bailes(enunciados).txt)
