@@ -1,0 +1,22 @@
+﻿Título de las Comedias
+//movie[@type = 'comedy']/title/text()
+
+
+Actores que trabajaron con Nicolas Cage en alguna película.´
+//movie[actor = 'Nicolas Cage']/actor/text()
+
+
+Actores que trabajaron con Nicolas Cage en alguna película, sin que salga su nombre en el resultado
+//movie[actor = 'Nicolas Cage']/actor[not (text()= 'Nicolas Cage')]/text()
+
+
+Productores de alguna película en 1992
+//movie[@year='1992']/producer/name/text() | //movie[@year='1992']/producer/surname/text()
+
+
+Título de las películas que tuvieron al menos tres actores
+//movie[count(actor) >= 3]/title/text()
+
+
+Título de las películas cuyo productor se apellida Wood.
+//movie[producer/surname='Wood']/title/text()

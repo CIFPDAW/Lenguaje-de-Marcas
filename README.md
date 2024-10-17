@@ -141,3 +141,4 @@ Realiza estos XPATH para estos XML, comprobando que funcionen.
 Realizar estos XPATH para estos XML, comprobando que funcionen.
 
 - [Ejercicio 1](XPATH3/bailes.xml) - [Resuelto](XML12/bailes(enunciados).txt)
+- [Ejercicio 2](XPATH3/movies.xml) - [Resuelto](XML12/movies(enunciados).txt)
