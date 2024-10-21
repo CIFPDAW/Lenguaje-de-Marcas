@@ -142,3 +142,11 @@ Realizar estos XPATH para estos XML, comprobando que funcionen.
 
 - [Ejercicio 1](XPATH3/bailes.xml) - [Resuelto](XML12/bailes(enunciados).txt)
 - [Ejercicio 2](XPATH3/movies.xml) - [Resuelto](XML12/movies(enunciados).txt)
+
+---
+
+### 21 de Oct
+
+Realizar estos XPATH para estos XML, comprobando que funcionen.
+
+- [Ejercicio 1](XPATH4/biblioteca.xml) - [Resuelto](XML13/biblioteca (enuncidos).txt)
