@@ -119,8 +119,8 @@ Realiza el DTD para esta cartelera siguiendo las intrucciones del PDF, no se pue
 Realiza el DTD y XML para el esquema descrito. Realiza estos XPATH en los XML adjuntos.
 
 - [Ejercicio 1](XML10/personas.xml)
-- [Ejercicio 2](XPATH1/ejerciciosXPATH1.xml) - [Resuelto](XML10/Enuinciados1.txt)
-- [Ejercicio 3](XPATH1/ejerciciosXPATH2.xml) - [Resuelto](XML10/Enuinciados2.txt)
+- [Ejercicio 2](XPATH1/ejerciciosXPATH1.xml) - [Resuelto](XPATH1/Enuinciados1.txt)
+- [Ejercicio 3](XPATH1/ejerciciosXPATH2.xml) - [Resuelto](XPATH1/Enuinciados2.txt)
 
 [*DOCS*](docs/XML10.pdf)
 
@@ -130,9 +130,9 @@ Realiza el DTD y XML para el esquema descrito. Realiza estos XPATH en los XML ad
 
 Realiza estos XPATH para estos XML, comprobando que funcionen.
 
-- [Ejercicio 1](XPATH2/banco.xml) - [Resuelto](XML11/banco(enunciados).txt)
-- [Ejercicio 2](XPATH2/inventario.xml) - [Resuelto](XML11/inventario(enunciados).txt)
-- [Ejercicio 3](XPATH2/libros.xml) - [Resuelto](XML11/libros(enunciados).txt)
+- [Ejercicio 1](XPATH2/banco.xml) - [Resuelto](XPATH2/banco(enunciados).txt)
+- [Ejercicio 2](XPATH2/inventario.xml) - [Resuelto](XPATH2/inventario(enunciados).txt)
+- [Ejercicio 3](XPATH2/libros.xml) - [Resuelto](XPATH2/libros(enunciados).txt)
 
 ---
 
@@ -140,8 +140,8 @@ Realiza estos XPATH para estos XML, comprobando que funcionen.
 
 Realizar estos XPATH para estos XML, comprobando que funcionen.
 
-- [Ejercicio 1](XPATH3/bailes.xml) - [Resuelto](XML12/bailes(enunciados).txt)
-- [Ejercicio 2](XPATH3/movies.xml) - [Resuelto](XML12/movies(enunciados).txt)
+- [Ejercicio 1](XPATH3/bailes.xml) - [Resuelto](XPATH3/bailes(enunciado).txt)
+- [Ejercicio 2](XPATH3/movies.xml) - [Resuelto](XPATH3/movies(enunciados).txt)
 
 ---
 
@@ -149,4 +149,4 @@ Realizar estos XPATH para estos XML, comprobando que funcionen.
 
 Realizar estos XPATH para estos XML, comprobando que funcionen.
 
-- [Ejercicio 1](XPATH4/biblioteca.xml) - [Resuelto](XML13/biblioteca (enuncidos).txt)
+- [Ejercicio 1](XPATH4/biblioteca.xml) - [Resuelto](XPATH4/biblioteca(enunciados).txt)
