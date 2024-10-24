@@ -150,3 +150,11 @@ Realizar estos XPATH para estos XML, comprobando que funcionen.
 Realizar estos XPATH para estos XML, comprobando que funcionen.
 
 - [Ejercicio 1](XPATH4/biblioteca.xml) - [Resuelto](XPATH4/biblioteca(enunciados).txt)
+
+---
+
+### 24 de Oct
+
+Realizar estos XPATH para estos XML, comprobando que funcionen.
+
+- [Ejercicio 1](XPATH5/UNIVERSIDAD.xml) - [Resuelto](XPATH5/UNIVERSIDAD(enunciados).txt)

@@ -1,0 +1,110 @@
+Nombre de la Universidad:
+
+/universidad/nombre
+
+País de la Universidad:
+
+/universidad/pais
+
+Nombres de las Carreras:
+
+
+/universidad/carreras/carrera/nombre
+
+Años de plan de estudio de las carreras:
+
+
+/universidad/carreras/carrera/plan
+
+Nombres de todos los alumnos:
+
+/universidad/alumnos/alumno/nombre
+
+Identificadores de todas las carreras:
+
+/universidad/carreras/carrera/@id
+
+Datos de la carrera cuyo id es c01:
+
+/universidad/carreras/carrera[@id='c01']
+
+Centro en que se estudia de la carrera cuyo id es c02:
+
+/universidad/carreras/carrera[@id='c02']/centro
+
+Nombre de las carreras que tengan subdirector:
+
+/universidad/carreras/carrera[subdirector]/nombre
+
+Nombre de los alumnos que estén haciendo proyecto:
+
+/universidad/alumnos/alumno[proyecto]/nombre
+
+Códigos de las carreras en las que hay algún alumno matriculado:
+
+
+/universidad/alumnos/alumno/estudios/carrera/@codigo
+Apellidos y Nombre de los alumnos con beca:
+
+
+/universidad/alumnos/alumno[@beca='si']/apellido1 | /universidad/alumnos/alumno[@beca='si']/apellido2 | /universidad/alumnos/alumno[@beca='si']/nombre
+Nombre de las asignaturas de la titulación c04:
+
+
+/universidad/asignaturas/asignatura[@titulacion='c04']/nombre
+Nombre de las asignaturas de segundo trimestre:
+
+
+/universidad/asignaturas/asignatura[trimestre='2']/nombre
+Nombre de las asignaturas que no tienen 4 créditos teóricos:
+
+
+/universidad/asignaturas/asignatura[creditos_teoricos != '4']/nombre
+Código de la carrera que estudia el último alumno:
+
+
+/universidad/alumnos/alumno[last()]/estudios/carrera/@codigo
+Código de las asignaturas que estudian mujeres:
+
+
+/universidad/alumnos/alumno[sexo='Mujer']/estudios/asignaturas/asignatura/@codigo
+Nombre de los alumnos matriculados en la asignatura a02:
+
+
+/universidad/alumnos/alumno[estudios/asignaturas/asignatura/@codigo='a02']/nombre
+Códigos de las carreras que estudian los alumnos matriculados en alguna asignatura:
+
+
+/universidad/alumnos/alumno/estudios/carrera/@codigo
+Apellidos de todos los hombres:
+
+
+/universidad/alumnos/alumno[sexo='Hombre']/apellido1
+Nombre de la carrera que estudia Víctor Manuel:
+
+
+/universidad/alumnos/alumno[nombre='Víctor Manuel']/estudios/carrera/@codigo
+Nombre de las asignaturas que estudia Luisa:
+
+
+/universidad/alumnos/alumno[nombre='Luisa']/estudios/asignaturas/asignatura/nombre
+Primer apellido de los alumnos matriculados en Ingeniería del Software:
+
+
+/universidad/alumnos/alumno[estudios/asignaturas/asignatura/@codigo='a02']/apellido1
+Nombre de las carreras que estudian los alumnos matriculados en la asignatura Tecnología de los Alimentos:
+
+
+/universidad/alumnos/alumno[estudios/asignaturas/asignatura/@codigo='a07']/estudios/carrera/nombre
+Nombre de los alumnos matriculados en carreras que no tienen subdirector:
+
+
+/universidad/alumnos/alumno[estudios/carrera[not(subdirector)]]/nombre
+Nombre de los alumnos matriculados en asignaturas con 0 créditos prácticos y que estudien la carrera de I.T. Informática:
+
+
+/universidad/alumnos/alumno[estudios/carrera/@codigo='c01' and estudios/asignaturas/asignatura[creditos_practicos='0']]/nombre
+Nombre de los alumnos que estudian carreras cuyos planes son anteriores a 2002:
+
+
+/universidad/alumnos/alumno[estudios/carrera/plan < '2002']/nombre
