@@ -158,3 +158,23 @@ Realizar estos XPATH para estos XML, comprobando que funcionen.
 Realizar estos XPATH para estos XML, comprobando que funcionen.
 
 - [Ejercicio 1](XPATH/XPATH5/UNIVERSIDAD.xml) - [Resuelto](XPATH/XPATH5/UNIVERSIDAD(enunciados).txt)
+
+## 04 de Nov
+
+Dado el siguiente documento XML, escriba las hojas de estilo XSLT que devuelvan la respuesta deseada.
+
+- [Ejercicio 1](XSLT/XLST1/Ejercicio1.xml)
+> [Apartado A](XSLT/XLST1/Ejercicio1_a.xslt)
+> [Apartado B](XSLT/XLST1/Ejercicio1_b.xslt)
+> [Apartado C](XSLT/XLST1/Ejercicio1_c.xslt)
+> [Apartado D](XSLT/XLST1/Ejercicio1_d.xslt)
+
+- [Ejercicio 2](XSLT/XLST1/Ejercicio2.xml)
+> [Apartado A](XSLT/XLST1/Ejercicio2_a.xslt)
+> [Apartado B](XSLT/XLST1/Ejercicio2_b.xslt)
+> [Apartado C](XSLT/XLST1/Ejercicio2_c.xslt)
+
+- [Ejercicio 3](XSLT/XLST1/Ejercicio3.xml)
+> [Apartado A](XSLT/XLST1/Ejercicio3_a.xslt)
+> [Apartado B](XSLT/XLST1/Ejercicio3_b.xslt)
+> [Apartado C](XSLT/XLST1/Ejercicio3_c.xslt)
