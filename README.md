@@ -178,3 +178,5 @@ Dado el siguiente documento XML, escriba las hojas de estilo XSLT que devuelvan 
 > [Apartado A](XSLT/XLST1/Ejercicio3_a.xslt)
 > [Apartado B](XSLT/XLST1/Ejercicio3_b.xslt)
 > [Apartado C](XSLT/XLST1/Ejercicio3_c.xslt)
+
+[*DOCS*](docs/XSLT1.pdf)
