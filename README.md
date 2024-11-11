@@ -159,24 +159,50 @@ Realizar estos XPATH para estos XML, comprobando que funcionen.
 
 - [Ejercicio 1](XPATH/XPATH5/UNIVERSIDAD.xml) - [Resuelto](XPATH/XPATH5/UNIVERSIDAD(enunciados).txt)
 
+---
+
 ## 04 de Nov
 
 Dado el siguiente documento XML, escriba las hojas de estilo XSLT que devuelvan la respuesta deseada.
 
-- [Ejercicio 1](XSLT/XLST1/Ejercicio1.xml)
-> [Apartado A](XSLT/XLST1/Ejercicio1_a.xslt)
-> [Apartado B](XSLT/XLST1/Ejercicio1_b.xslt)
-> [Apartado C](XSLT/XLST1/Ejercicio1_c.xslt)
-> [Apartado D](XSLT/XLST1/Ejercicio1_d.xslt)
+- [Ejercicio 1](XSLT/XSLT1/Ejercicio1.xml)
+> [Apartado A](XSLT/XSLT1/Ejercicio1_a.xslt)
+> [Apartado B](XSLT/XSLT1/Ejercicio1_b.xslt)
+> [Apartado C](XSLT/XSLT1/Ejercicio1_c.xslt)
+> [Apartado D](XSLT/XSLT1/Ejercicio1_d.xslt)
 
-- [Ejercicio 2](XSLT/XLST1/Ejercicio2.xml)
-> [Apartado A](XSLT/XLST1/Ejercicio2_a.xslt)
-> [Apartado B](XSLT/XLST1/Ejercicio2_b.xslt)
-> [Apartado C](XSLT/XLST1/Ejercicio2_c.xslt)
+- [Ejercicio 2](XSLT/XSLT1/Ejercicio2.xml)
+> [Apartado A](XSLT/XSLT1/Ejercicio2_a.xslt)
+> [Apartado B](XSLT/XSLT1/Ejercicio2_b.xslt)
+> [Apartado C](XSLT/XSLT1/Ejercicio2_c.xslt)
 
-- [Ejercicio 3](XSLT/XLST1/Ejercicio3.xml)
-> [Apartado A](XSLT/XLST1/Ejercicio3_a.xslt)
-> [Apartado B](XSLT/XLST1/Ejercicio3_b.xslt)
-> [Apartado C](XSLT/XLST1/Ejercicio3_c.xslt)
+- [Ejercicio 3](XSLT/XSLT1/Ejercicio3.xml)
+> [Apartado A](XSLT/XSLT1/Ejercicio3_a.xslt)
+> [Apartado B](XSLT/XSLT1/Ejercicio3_b.xslt)
+> [Apartado C](XSLT/XSLT1/Ejercicio3_c.xslt)
 
 [*DOCS*](docs/XSLT1.pdf)
+
+---
+
+## 11 de Nov
+
+Dado el siguiente documento XML, escriba las hojas de estilo XSLT que devuelvan la respuesta deseada.
+
+- [Ejercicio 1](XSLT/XSLT2/Ejercicio1.xml)
+> [Apartado A](XSLT/XSLT2/Ejercicio1_a.xslt)
+> [Apartado B](XSLT/XSLT2/Ejercicio1_b.xslt)
+> [Apartado C](XSLT/XSLT2/Ejercicio1_c.xslt)
+> [Apartado D](XSLT/XSLT2/Ejercicio1_d.xslt)
+
+- [Ejercicio 2](XSLT/XSLT2/Ejercicio2.xml)
+> [Apartado A](XSLT/XSLT2/Ejercicio2_a.xslt)
+> [Apartado B](XSLT/XSLT2/Ejercicio2_b.xslt)
+> [Apartado C](XSLT/XSLT2/Ejercicio2_c.xslt)
+
+- [Ejercicio 3](XSLT/XSLT2/Ejercicio3.xml)
+> [Apartado A](XSLT/XSLT2/Ejercicio3_a.xslt)
+> [Apartado B](XSLT/XSLT2/Ejercicio3_b.xslt)
+> [Apartado C](XSLT/XSLT2/Ejercicio3_c.xslt)
+
+[*DOCS*](docs/XSLT2.pdf)
