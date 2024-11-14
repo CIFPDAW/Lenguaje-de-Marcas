@@ -206,3 +206,25 @@ Dado el siguiente documento XML, escriba las hojas de estilo XSLT que devuelvan 
 > [Apartado C](XSLT/XSLT2/Ejercicio3_c.xslt)
 
 [*DOCS*](docs/XSLT2.pdf)
+
+---
+
+## 18 de Nov
+
+Dado el siguiente documento XML, escriba las hojas de estilo XSLT que devuelvan la respuesta deseada.
+
+- [Ejercicio 1](XSLT/XSLT3/Ejercicio1.xml)
+> [Apartado A](XSLT/XSLT3/Ejercicio1_a.xslt)
+> [Apartado B](XSLT/XSLT3/Ejercicio1_b.xslt)
+> [Apartado C](XSLT/XSLT3/Ejercicio1_c.xslt)
+
+[*DOCS*](docs/XSLT3.pdf)
+
+- [Ejercicio 2](XSLT/XSLT4/Ejercicio1.xml)
+> [Apartado A](XSLT/XSLT4/Ejercicio1_a.xslt)
+> [Apartado B](XSLT/XSLT4/Ejercicio1_b.xslt)
+
+- [Ejercicio 2](XSLT/XSLT4/Ejercicio2.xml)
+> [Apartado A](XSLT/XSLT4/Ejercicio2_a.xslt)
+
+[*DOCS*](docs/XSLT4.pdf)
