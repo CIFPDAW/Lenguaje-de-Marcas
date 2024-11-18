@@ -224,7 +224,7 @@ Dado el siguiente documento XML, escriba las hojas de estilo XSLT que devuelvan 
 > [Apartado A](XSLT/XSLT4/Ejercicio1_a.xslt)
 > [Apartado B](XSLT/XSLT4/Ejercicio1_b.xslt)
 
-- [Ejercicio 2](XSLT/XSLT4/Ejercicio2.xml)
+- [Ejercicio 3](XSLT/XSLT4/Ejercicio2.xml)
 > [Apartado A](XSLT/XSLT4/Ejercicio2_a.xslt)
 
 [*DOCS*](docs/XSLT4.pdf)
