@@ -238,7 +238,7 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 > ![Recurso](XHTML/XHTML01/ejercicio1.gif "a title")
 - [Ejercicio 2](XHTML/XHTML01/ejercicio2.html)
 - Recursos:
-> ![Recurso](XHTML/XHTML01/ejercicio2.gif "a title")
+> ![Recurso](XHTML/XHTML01/ejercicio2.jpg "a title")
 - [Ejercicio 3](XHTML/XHTML01/ejercicio3.html)
 - Recursos:
 > [Recurso](XHTML/XHTML01/ejercicio3.pdf "a title")
