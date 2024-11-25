@@ -228,3 +228,17 @@ Dado el siguiente documento XML, escriba las hojas de estilo XSLT que devuelvan 
 > [Apartado A](XSLT/XSLT4/Ejercicio2_a.xslt)
 
 [*DOCS*](docs/XSLT4.pdf)
+
+## 25 de Nov
+
+Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicitado.
+
+- [Ejercicio 1](XHTML/XHTML01/ejercicio1.html)
+- Recursos:
+> ![Recurso](XHTML/XHTML01/ejercicio1.gif "a title")
+- [Ejercicio 2](XHTML/XHTML01/ejercicio2.html)
+- Recursos:
+> ![Recurso](XHTML/XHTML01/ejercicio2.gif "a title")
+- [Ejercicio 3](XHTML/XHTML01/ejercicio3.html)
+- Recursos:
+> [Recurso](XHTML/XHTML01/ejercicio3.pdf "a title")
