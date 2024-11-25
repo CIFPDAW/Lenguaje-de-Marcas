@@ -7,7 +7,7 @@ Este repositorio contiene los ejercicios de la asignatura Lenguaje de Marcas del
 Por el momento, los ejercicios realizados son los adjuntos en la carpeta raíz del repositorio. La mayoria son realizados en XML y DTD.
 
 <details open>
-<summary>### XML</summary>
+<summary>XML</summary>
 
 ### 19 de Septiembre
 
@@ -121,7 +121,7 @@ Realiza el DTD para esta cartelera siguiendo las intrucciones del PDF, no se pue
 
 </details>
 <details open>
-<summary>### XPATH</summary>
+<summary>XPATH</summary>
 
 ### 10 de Oct
 
@@ -172,7 +172,7 @@ Realizar estos XPATH para estos XML, comprobando que funcionen.
 
 </details>
 <details open>
-<summary>### XSLT</summary>
+<summary>XSLT</summary>
 
 ## 04 de Nov
 
@@ -232,7 +232,7 @@ Dado el siguiente documento XML, escriba las hojas de estilo XSLT que devuelvan 
 
 </details>
 <details open>
-<summary>### HTML</summary>
+<summary>HTML</summary>
 
 ## 25 de Nov
 
