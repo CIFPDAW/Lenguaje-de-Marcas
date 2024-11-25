@@ -4,7 +4,10 @@ Este repositorio contiene los ejercicios de la asignatura Lenguaje de Marcas del
 
 ## Trimestre 1
 
-Por el momento, los ejercicios realizados son los adjuntos en la carpeta raíz del repositorio. La mayoria son realizados en XML y DTD. 
+Por el momento, los ejercicios realizados son los adjuntos en la carpeta raíz del repositorio. La mayoria son realizados en XML y DTD.
+
+<details open>
+<summary>XML</summary>
 
 ### 19 de Septiembre
 
@@ -18,7 +21,7 @@ Corrigue los siguientes XML:
 - [Ejercicio 6](XML/XML01/ej1_06.xml)
 - [Ejercicio 7](XML/XML01/ej1_07.xml)
 
-[*DOCS*](docs/XML1.pdf)
+[_DOCS_](docs/XML1.pdf)
 
 ---
 
@@ -30,7 +33,7 @@ Crea los XML para que sigan los requerido por los ejemplos:
 - [Ejercicio 2](XML/XML02/ejercicio2XML.xml)
 - [Ejercicio 3](XML/XML02/ejercicio3XML.xml)
 
-[*DOCS*](docs/XML2.pdf)
+[_DOCS_](docs/XML2.pdf)
 
 Corrige los XML para que sean validos con el DTD adjunto:
 
@@ -44,7 +47,7 @@ Corrige los XML para que sean validos con el DTD adjunto:
 - [Ejercicio 18](XML/XML03/dtd_18.xml)
 - [Ejercicio 19](XML/XML03/dtd_19.xml)
 
-[*DOCS*](docs/XML3.pdf)
+[_DOCS_](docs/XML3.pdf)
 
 Corrgie los DTD sin tocar los XML:
 
@@ -58,13 +61,14 @@ Corrgie los DTD sin tocar los XML:
 - [Ejercicio 28](XML/XML04/dtd_28.xml)
 - [Ejercicio 29](XML/XML04/dtd_29.xml)
 
-[*DOCS*](docs/XML4.pdf)
+[_DOCS_](docs/XML4.pdf)
 
 ---
 
 ### 30 de Septiembre
 
 Corregir los XML con Atributos para que sean validos con el DTD adjunto.
+
 - [Ejercicio 31](XML/XML05/dtd_31.xml)
 - [Ejercicio 32](XML/XML05/dtd_32.xml)
 - [Ejercicio 33](XML/XML05/dtd_33.xml)
@@ -72,16 +76,17 @@ Corregir los XML con Atributos para que sean validos con el DTD adjunto.
 - [Ejercicio 35](XML/XML05/dtd_35.xml)
 - [Ejercicio 36](XML/XML05/dtd_36.xml)
 
-[*DOCS*](docs/XML5.pdf)
+[_DOCS_](docs/XML5.pdf)
 
 Corregir los DTD con Atributos sin tocar los XML.
+
 - [Ejercicio 41](XML/XML06/dtd_41.xml)
 - [Ejercicio 42](XML/XML06/dtd_42.xml)
 - [Ejercicio 43](XML/XML06/dtd_43.xml)
 - [Ejercicio 44](XML/XML06/dtd_44.xml)
 - [Ejercicio 45](XML/XML06/dtd_45.xml)
 
-[*DOCS*](docs/XML6.pdf)
+[_DOCS_](docs/XML6.pdf)
 
 Crea los XML para que sigan los requerido por los ejemplos:
 
@@ -89,7 +94,7 @@ Crea los XML para que sigan los requerido por los ejemplos:
 - [Ejercicio 2](XML/XML07/ejercicio2.xml)
 - [Ejercicio 3](XML/XML07/ejercicio3.xml)
 
-[*DOCS*](docs/XML7.pdf)
+[_DOCS_](docs/XML7.pdf)
 
 ---
 
@@ -100,7 +105,7 @@ Realiza a partir de estos datos un XML con un DTD en otro documento y enlazalos.
 - [Ejercicio 1](XML/XML08/libros.xml)
 - [Ejercicio 2](XML/XML08/curriculum.xml)
 
-[*DOCS*](docs/XML8.pdf)
+[_DOCS_](docs/XML8.pdf)
 
 ---
 
@@ -110,9 +115,13 @@ Realiza el DTD para esta cartelera siguiendo las intrucciones del PDF, no se pue
 
 - [Ejercicio 1](XML/XML09/cartelera.xml)
 
-[*DOCS*](docs/XML9.pdf)
+[_DOCS_](docs/XML9.pdf)
 
 ---
+
+</details>
+<details open>
+<summary>XPATH</summary>
 
 ### 10 de Oct
 
@@ -122,7 +131,7 @@ Realiza el DTD y XML para el esquema descrito. Realiza estos XPATH/XPATH en los 
 - [Ejercicio 2](XPATH/XPATH1/ejerciciosXPATH1.xml) - [Resuelto](XPATH/XPATH1/Enuinciados1.txt)
 - [Ejercicio 3](XPATH/XPATH1/ejerciciosXPATH2.xml) - [Resuelto](XPATH/XPATH1/Enuinciados2.txt)
 
-[*DOCS*](docs/XML10.pdf)
+[_DOCS_](docs/XML10.pdf)
 
 ---
 
@@ -130,9 +139,9 @@ Realiza el DTD y XML para el esquema descrito. Realiza estos XPATH/XPATH en los 
 
 Realiza estos XPATH para estos XML, comprobando que funcionen.
 
-- [Ejercicio 1](XPATH/XPATH2/banco.xml) - [Resuelto](XPATH/XPATH2/banco(enunciados).txt)
-- [Ejercicio 2](XPATH/XPATH2/inventario.xml) - [Resuelto](XPATH/XPATH2/inventario(enunciados).txt)
-- [Ejercicio 3](XPATH/XPATH2/libros.xml) - [Resuelto](XPATH/XPATH2/libros(enunciados).txt)
+- [Ejercicio 1](XPATH/XPATH2/banco.xml) - [Resuelto](<XPATH/XPATH2/banco(enunciados).txt>)
+- [Ejercicio 2](XPATH/XPATH2/inventario.xml) - [Resuelto](<XPATH/XPATH2/inventario(enunciados).txt>)
+- [Ejercicio 3](XPATH/XPATH2/libros.xml) - [Resuelto](<XPATH/XPATH2/libros(enunciados).txt>)
 
 ---
 
@@ -140,8 +149,8 @@ Realiza estos XPATH para estos XML, comprobando que funcionen.
 
 Realizar estos XPATH para estos XML, comprobando que funcionen.
 
-- [Ejercicio 1](XPATH/XPATH3/bailes.xml) - [Resuelto](XPATH/XPATH3/bailes(enunciado).txt)
-- [Ejercicio 2](XPATH/XPATH3/movies.xml) - [Resuelto](XPATH/XPATH3/movies(enunciados).txt)
+- [Ejercicio 1](XPATH/XPATH3/bailes.xml) - [Resuelto](<XPATH/XPATH3/bailes(enunciado).txt>)
+- [Ejercicio 2](XPATH/XPATH3/movies.xml) - [Resuelto](<XPATH/XPATH3/movies(enunciados).txt>)
 
 ---
 
@@ -149,7 +158,7 @@ Realizar estos XPATH para estos XML, comprobando que funcionen.
 
 Realizar estos XPATH para estos XML, comprobando que funcionen.
 
-- [Ejercicio 1](XPATH/XPATH4/biblioteca.xml) - [Resuelto](XPATH/XPATH4/biblioteca(enunciados).txt)
+- [Ejercicio 1](XPATH/XPATH4/biblioteca.xml) - [Resuelto](<XPATH/XPATH4/biblioteca(enunciados).txt>)
 
 ---
 
@@ -157,31 +166,30 @@ Realizar estos XPATH para estos XML, comprobando que funcionen.
 
 Realizar estos XPATH para estos XML, comprobando que funcionen.
 
-- [Ejercicio 1](XPATH/XPATH5/UNIVERSIDAD.xml) - [Resuelto](XPATH/XPATH5/UNIVERSIDAD(enunciados).txt)
+- [Ejercicio 1](XPATH/XPATH5/UNIVERSIDAD.xml) - [Resuelto](<XPATH/XPATH5/UNIVERSIDAD(enunciados).txt>)
 
 ---
+
+</details>
+<details open>
+<summary>XSLT</summary>
 
 ## 04 de Nov
 
 Dado el siguiente documento XML, escriba las hojas de estilo XSLT que devuelvan la respuesta deseada.
 
 - [Ejercicio 1](XSLT/XSLT1/Ejercicio1.xml)
-> [Apartado A](XSLT/XSLT1/Ejercicio1_a.xslt)
-> [Apartado B](XSLT/XSLT1/Ejercicio1_b.xslt)
-> [Apartado C](XSLT/XSLT1/Ejercicio1_c.xslt)
-> [Apartado D](XSLT/XSLT1/Ejercicio1_d.xslt)
+
+  > [Apartado A](XSLT/XSLT1/Ejercicio1_a.xslt) > [Apartado B](XSLT/XSLT1/Ejercicio1_b.xslt) > [Apartado C](XSLT/XSLT1/Ejercicio1_c.xslt) > [Apartado D](XSLT/XSLT1/Ejercicio1_d.xslt)
 
 - [Ejercicio 2](XSLT/XSLT1/Ejercicio2.xml)
-> [Apartado A](XSLT/XSLT1/Ejercicio2_a.xslt)
-> [Apartado B](XSLT/XSLT1/Ejercicio2_b.xslt)
-> [Apartado C](XSLT/XSLT1/Ejercicio2_c.xslt)
+
+  > [Apartado A](XSLT/XSLT1/Ejercicio2_a.xslt) > [Apartado B](XSLT/XSLT1/Ejercicio2_b.xslt) > [Apartado C](XSLT/XSLT1/Ejercicio2_c.xslt)
 
 - [Ejercicio 3](XSLT/XSLT1/Ejercicio3.xml)
-> [Apartado A](XSLT/XSLT1/Ejercicio3_a.xslt)
-> [Apartado B](XSLT/XSLT1/Ejercicio3_b.xslt)
-> [Apartado C](XSLT/XSLT1/Ejercicio3_c.xslt)
+  > [Apartado A](XSLT/XSLT1/Ejercicio3_a.xslt) > [Apartado B](XSLT/XSLT1/Ejercicio3_b.xslt) > [Apartado C](XSLT/XSLT1/Ejercicio3_c.xslt)
 
-[*DOCS*](docs/XSLT1.pdf)
+[_DOCS_](docs/XSLT1.pdf)
 
 ---
 
@@ -190,22 +198,17 @@ Dado el siguiente documento XML, escriba las hojas de estilo XSLT que devuelvan 
 Dado el siguiente documento XML, escriba las hojas de estilo XSLT que devuelvan la respuesta deseada.
 
 - [Ejercicio 1](XSLT/XSLT2/Ejercicio1.xml)
-> [Apartado A](XSLT/XSLT2/Ejercicio1_a.xslt)
-> [Apartado B](XSLT/XSLT2/Ejercicio1_b.xslt)
-> [Apartado C](XSLT/XSLT2/Ejercicio1_c.xslt)
-> [Apartado D](XSLT/XSLT2/Ejercicio1_d.xslt)
+
+  > [Apartado A](XSLT/XSLT2/Ejercicio1_a.xslt) > [Apartado B](XSLT/XSLT2/Ejercicio1_b.xslt) > [Apartado C](XSLT/XSLT2/Ejercicio1_c.xslt) > [Apartado D](XSLT/XSLT2/Ejercicio1_d.xslt)
 
 - [Ejercicio 2](XSLT/XSLT2/Ejercicio2.xml)
-> [Apartado A](XSLT/XSLT2/Ejercicio2_a.xslt)
-> [Apartado B](XSLT/XSLT2/Ejercicio2_b.xslt)
-> [Apartado C](XSLT/XSLT2/Ejercicio2_c.xslt)
+
+  > [Apartado A](XSLT/XSLT2/Ejercicio2_a.xslt) > [Apartado B](XSLT/XSLT2/Ejercicio2_b.xslt) > [Apartado C](XSLT/XSLT2/Ejercicio2_c.xslt)
 
 - [Ejercicio 3](XSLT/XSLT2/Ejercicio3.xml)
-> [Apartado A](XSLT/XSLT2/Ejercicio3_a.xslt)
-> [Apartado B](XSLT/XSLT2/Ejercicio3_b.xslt)
-> [Apartado C](XSLT/XSLT2/Ejercicio3_c.xslt)
+  > [Apartado A](XSLT/XSLT2/Ejercicio3_a.xslt) > [Apartado B](XSLT/XSLT2/Ejercicio3_b.xslt) > [Apartado C](XSLT/XSLT2/Ejercicio3_c.xslt)
 
-[*DOCS*](docs/XSLT2.pdf)
+[_DOCS_](docs/XSLT2.pdf)
 
 ---
 
@@ -214,20 +217,22 @@ Dado el siguiente documento XML, escriba las hojas de estilo XSLT que devuelvan 
 Dado el siguiente documento XML, escriba las hojas de estilo XSLT que devuelvan la respuesta deseada.
 
 - [Ejercicio 1](XSLT/XSLT3/Ejercicio1.xml)
-> [Apartado A](XSLT/XSLT3/Ejercicio1_a.xslt)
-> [Apartado B](XSLT/XSLT3/Ejercicio1_b.xslt)
-> [Apartado C](XSLT/XSLT3/Ejercicio1_c.xslt)
+  > [Apartado A](XSLT/XSLT3/Ejercicio1_a.xslt) > [Apartado B](XSLT/XSLT3/Ejercicio1_b.xslt) > [Apartado C](XSLT/XSLT3/Ejercicio1_c.xslt)
 
-[*DOCS*](docs/XSLT3.pdf)
+[_DOCS_](docs/XSLT3.pdf)
 
 - [Ejercicio 2](XSLT/XSLT4/Ejercicio1.xml)
-> [Apartado A](XSLT/XSLT4/Ejercicio1_a.xslt)
-> [Apartado B](XSLT/XSLT4/Ejercicio1_b.xslt)
+
+  > [Apartado A](XSLT/XSLT4/Ejercicio1_a.xslt) > [Apartado B](XSLT/XSLT4/Ejercicio1_b.xslt)
 
 - [Ejercicio 3](XSLT/XSLT4/Ejercicio2.xml)
-> [Apartado A](XSLT/XSLT4/Ejercicio2_a.xslt)
+  > [Apartado A](XSLT/XSLT4/Ejercicio2_a.xslt)
 
-[*DOCS*](docs/XSLT4.pdf)
+[_DOCS_](docs/XSLT4.pdf)
+
+</details>
+<details open>
+<summary>HTML</summary>
 
 ## 25 de Nov
 
@@ -235,10 +240,12 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 
 - [Ejercicio 1](XHTML/XHTML01/ejercicio1.html)
 - Recursos:
-> ![Recurso](XHTML/XHTML01/ejercicio1.gif "a title")
+  > ![Recurso](XHTML/XHTML01/ejercicio1.gif "a title")
 - [Ejercicio 2](XHTML/XHTML01/ejercicio2.html)
 - Recursos:
-> ![Recurso](XHTML/XHTML01/ejercicio2.jpg "a title")
+  > ![Recurso](XHTML/XHTML01/ejercicio2.jpg "a title")
 - [Ejercicio 3](XHTML/XHTML01/ejercicio3.html)
 - Recursos:
-> [Recurso](XHTML/XHTML01/ejercicio3.pdf "a title")
+  > [Recurso](XHTML/XHTML01/ejercicio3.pdf "a title")
+
+</details>
