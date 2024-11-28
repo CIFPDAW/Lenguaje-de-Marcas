@@ -250,4 +250,14 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 - Recursos:
   > [Recurso](XHTML/XHTML01/ejercicio4.pdf "a title")
 
+---
+
+## 25 de Nov
+
+Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicitado.
+
+- [Ejercicio 1](XHTML/XHTML02/ejercicio8.html)
+- Recursos:
+  > [Recurso](XHTML/XHTML02/ejercicio8.pdf "a title")
+
 </details>
