@@ -238,17 +238,17 @@ Dado el siguiente documento XML, escriba las hojas de estilo XSLT que devuelvan 
 
 Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicitado.
 
-- [Ejercicio 1](XHTML/XHTML01/ejercicio2.html)
+- [Ejercicio 1](HTML/HTML01/ejercicio2.html)
 - Recursos:
-  > ![Recurso](XHTML/XHTML01/ejercicio2.gif "a title")
+  > ![Recurso](HTML/HTML01/ejercicio2.gif "a title")
 
-- [Ejercicio 2](XHTML/XHTML01/ejercicio3.html)
+- [Ejercicio 2](HTML/HTML01/ejercicio3.html)
 - Recursos:
-  > ![Recurso](XHTML/XHTML01/ejercicio3.jpg "a title")
+  > ![Recurso](HTML/HTML01/ejercicio3.jpg "a title")
 
-- [Ejercicio 3](XHTML/XHTML01/ejercicio4.html)
+- [Ejercicio 3](HTML/HTML01/ejercicio4.html)
 - Recursos:
-  > [Recurso](XHTML/XHTML01/ejercicio4.pdf "a title")
+  > [Recurso](HTML/HTML01/ejercicio4.pdf "a title")
 
 ---
 
@@ -256,8 +256,22 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 
 Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicitado.
 
-- [Ejercicio 1](XHTML/XHTML02/ejercicio8.html)
+- [Ejercicio 1](HTML/HTML02/ejercicio8.html)
 - Recursos:
-  > [Recurso](XHTML/XHTML02/ejercicio8.pdf "a title")
+  > [Recurso](HTML/HTML02/ejercicio8.pdf "a title")
+
+---
+
+## 02 de Dic
+
+Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicitado.
+
+- [Ejercicio 1](HTML/HTML03/ejercicio11.html)
+- Recursos:
+  > [Recurso](HTML/HTML3/ejercicio11.pdf "a title")
+
+- [Ejercicio 2](HTML/HTML03/ejercicio12.html)
+- Recursos:
+  > [Recurso](HTML/HTML3/ejercicio12.pdf "a title")
 
 </details>
