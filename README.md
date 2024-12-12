@@ -240,10 +240,12 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 
 - [Ejercicio 1](HTML/HTML01/ejercicio2.html)
 - Recursos:
+
   > ![Recurso](HTML/HTML01/ejercicio2.gif "a title")
 
 - [Ejercicio 2](HTML/HTML01/ejercicio3.html)
 - Recursos:
+
   > ![Recurso](HTML/HTML01/ejercicio3.jpg "a title")
 
 - [Ejercicio 3](HTML/HTML01/ejercicio4.html)
@@ -268,6 +270,7 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 
 - [Ejercicio 1](HTML/HTML03/ejercicio11.html)
 - Recursos:
+
   > [Recurso](HTML/HTML03/ejercicio11.pdf "a title")
 
 - [Ejercicio 2](HTML/HTML03/ejercicio12.html)
@@ -280,10 +283,16 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 
 - [Ejercicio 1](HTML/HTML03/ejercicio13.html)
 - Recursos:
+
   > [Recurso](HTML/HTML03/ejercicio13.pdf "a title")
 
 - [Ejercicio 2](HTML/HTML04/ejercicio6/index.html)
 - Recursos:
+
   > [Recurso](HTML/HTML04/ejercicio6.pdf "a title")
+
+- [Ejercicio 3](HTML/HTML04/ejercicio1.1/index.html)
+- Recursos:
+  > [Recurso](HTML/HTML04/ejercicio1.1.pdf "a title")
 
 </details>
