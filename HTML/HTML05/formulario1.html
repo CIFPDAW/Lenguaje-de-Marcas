@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Formilario 1</title>
+  </head>
+  <body>
+    <form>
+      <p>
+        Nombre:
+        <input name="nombre" type="text" />
+      </p>
+      <p>
+        Apellidos:
+        <input name="apellidos" type="text" />
+      </p>
+      <p>
+        Correos electrónico:
+        <input name="email" type="email" />
+      </p>
+      <p>
+        Población:
+        <input name="poblacion" type="text" />
+      </p>
+      <p>
+        Provincia:
+        <input name="provincia" type="text" />
+      </p>
+      <table>
+        <tr>
+          <td>Edad:</td>
+          <td>¿Como nos conociste?</td>
+        </tr>
+        <tr>
+          <td><input name="edad" type="radio" /> 0-20</td>
+          <td>
+            <input name="conociste" type="checkbox" /> A través de un amigo.
+          </td>
+        </tr>
+        <tr>
+          <td><input name="edad" type="radio" /> 20-40</td>
+          <td>
+            <input name="conociste" type="checkbox" /> A través de un buscador.
+          </td>
+        </tr>
+        <tr>
+          <td><input name="edad" type="radio" /> 40-60</td>
+          <td>
+            <input name="conociste" type="checkbox" /> A través de la red.
+          </td>
+        </tr>
+        <tr>
+          <td><input name="edad" type="radio" /> 60-100</td>
+          <td><input name="conociste" type="checkbox" /> Otros.</td>
+        </tr>
+      </table>
+      <input type="submit" name="Enviar" value="Enviar formulario" />
+      <input type="reset" name="limpiar" value="Borrar formulario" />
+    </form>
+  </body>
+</html>

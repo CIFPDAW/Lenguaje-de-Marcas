@@ -283,16 +283,24 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 
 - [Ejercicio 1](HTML/HTML03/ejercicio13.html)
 - Recursos:
-
   > [Recurso](HTML/HTML03/ejercicio13.pdf "a title")
 
 - [Ejercicio 2](HTML/HTML04/ejercicio6/index.html)
 - Recursos:
-
   > [Recurso](HTML/HTML04/ejercicio6.pdf "a title")
 
 - [Ejercicio 3](HTML/HTML04/ejercicio1.1/index.html)
 - Recursos:
   > [Recurso](HTML/HTML04/ejercicio1.1.pdf "a title")
+
+## 12 de Dic
+
+- [Ejercicio 1](HTML/HTML05/ejercicio1.2/index.html)
+- Recursos:
+  > [Recurso](HTML/HTML05/ejercicio1.2.pdf "a title")
+
+- [Ejercicio 2](HTML/HTML05/formulario1.html)
+- Recursos:
+  > [Recurso](HTML/HTML05/formulario1.pdf "a title")
 
 </details>
