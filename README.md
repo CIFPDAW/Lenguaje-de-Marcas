@@ -231,6 +231,9 @@ Dado el siguiente documento XML, escriba las hojas de estilo XSLT que devuelvan 
 [_DOCS_](docs/XSLT4.pdf)
 
 </details>
+
+# Trimestre 2
+
 <details open>
 <summary>HTML</summary>
 
@@ -302,5 +305,15 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 - [Ejercicio 2](HTML/HTML05/formulario1.html)
 - Recursos:
   > [Recurso](HTML/HTML05/formulario1.pdf "a title")
+
+## 16 de Dic
+
+- [Ejercicio 1](HTML/HTML06/ejercicio15.html)
+- Recursos:
+  > [Recurso](HTML/HTML06/ejercicio15.pdf "a title")
+
+- [Ejercicio 2](HTML/HTML06/ejercicio16.html)
+- Recursos:
+  > [Recurso](HTML/HTML06/ejercicio16.pdf "a title")
 
 </details>

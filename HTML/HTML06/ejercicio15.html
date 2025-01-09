@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Rellena tu CV</title>
+  </head>
+  <body>
+    <h1>Rellena tu CV</h1>
+    <form>
+      <fieldset>
+        <legend>Datos personales</legend>
+        <p>
+          <label for="provincia">Provincia</label> <br />
+          <select id="provincia" name="provincia">
+            <option value="" selected="selected">- selecciona -</option>
+            <option value="sct">Santa Cruz de Tenerife</option>
+            <option value="lpgc">Las Palma de Gran Canaria</option>
+            <option value="otro">Otro</option>
+          </select>
+        </p>
+        <p>
+          <label for="nacimiento">Fecha de nacimiento</label> <br />
+          <!-- Día -->
+          <input type="number" id="dia" name="dia" min="1" max="31" />
+          <span> de </span>
+          <!-- Mes -->
+          <select id="mes" name="mes">
+            <option value="1" selected="selected">Enero</option>
+            <option value="2">Febrero</option>
+            <option value="3">Marzo</option>
+            <option value="4">Abril</option>
+            <option value="5">Mayo</option>
+            <option value="6">Junio</option>
+            <option value="7">Julio</option>
+            <option value="8">Agosto</option>
+            <option value="9">Septiembre</option>
+            <option value="10">Octubre</option>
+            <option value="11">Noviembre</option>
+            <option value="12">Diciembre</option>
+          </select>
+          <span> de </span>
+          <!-- Año -->
+          <input type="number" id="anio" name="anio" min="1900" max="2025" />
+        </p>
+        <p>
+          <label for="intereses"> Temas de Interés</label>
+          <br />
+          <select id="intereses" name="intereses" size="5" multiple="multiple">
+            <option value="bae">Administración de bases de datos</option>
+            <option value="ap">Análisis y programación</option>
+            <option value="arq">Arquitectura</option>
+            <option value="cal">Calidad</option>
+            <option value="erp">ERP, CRM Bussinesss Intelligente</option>
+            <option value="bae2">Administración de bases de datos 2</option>
+            <option value="ap2">Análisis y programación 2</option>
+            <option value="arq2">Arquitectura 2</option>
+            <option value="cal2">Calidad 2</option>
+            <option value="erp2">ERP, CRM Bussinesss Intelligente 2</option>
+
+
+          </select>
+        </p>
+      </fieldset>
+    </form>
+  </body>
+</html>
