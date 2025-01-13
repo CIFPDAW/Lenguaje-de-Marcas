@@ -1,0 +1,40 @@
+h1{
+    color: teal;
+}
+p strong{
+    color:red;
+}
+p a{
+    color: green;
+}
+p em{
+    color: blue;
+}
+caption {
+    color: blue;
+} 
+tr{
+    color: green;
+} tr th{
+    color: red;
+}
+tr strong{
+    color: orange;
+}
+#adicional{
+    color:olive;
+}
+.especial{
+    color: purple;
+}
+tr .especial {
+    color: orange;
+}
+
+#subtitulo{
+    color: blue;
+}
+
+p #especial{
+    color: fuchsia;
+}
