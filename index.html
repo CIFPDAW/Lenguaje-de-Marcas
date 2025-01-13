@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>File Loader</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+      }
+      h1 {
+        color: #333;
+      }
+      .file-container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        padding: 0;
+        justify-content: space-around;
+      }
+      .file-container a {
+        text-decoration: none;
+      }
+      .button {
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 16px;
+        color: #fff;
+        background-color: #007bff;
+        border: none;
+        border-radius: 5px;
+        text-align: center;
+        cursor: pointer;
+        transition: background-color 0.3s;
+      }
+      .button:hover {
+        background-color: #0056b3;
+      }
+      @media (max-width: 600px) {
+        .button {
+          width: 100%;
+          margin-bottom: 10px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Files in Directory</h1>
+    <div class="file-container" id="file-list"></div>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        const files = [
+          "CSS/CSS01/ejercicio1.html",
+          "CSS/CSS01/ejercicio2.html",
+          "HTML/HTML01/Ejercicio4.html",
+          "HTML/HTML01/ejercicio2.html",
+          "HTML/HTML01/ejercicio3.html",
+          "HTML/HTML01/ejercicio5.html",
+          "HTML/HTML02/ejercicio8.html",
+          "HTML/HTML03/ejercicio11.html",
+          "HTML/HTML03/ejercicio12.html",
+          "HTML/HTML03/ejercicio13.html",
+          "HTML/HTML04/ejercicio1.1/index.html",
+          "HTML/HTML04/ejercicio1.1/paginas/gusto.html",
+          "HTML/HTML04/ejercicio1.1/paginas/oido.html",
+          "HTML/HTML04/ejercicio1.1/paginas/olfato.html",
+          "HTML/HTML04/ejercicio1.1/paginas/tacto.html",
+          "HTML/HTML04/ejercicio1.1/paginas/vista.html",
+          "HTML/HTML04/ejercicio6/index.html",
+          "HTML/HTML04/ejercicio6/ejercicios/Ejercicio4.html",
+          "HTML/HTML04/ejercicio6/ejercicios/ejercicio2.html",
+          "HTML/HTML04/ejercicio6/ejercicios/ejercicio3.html",
+          "HTML/HTML04/ejercicio6/ejercicios/ejercicio5.html",
+          "HTML/HTML04/ejercicio6/ejercicios/ejercicio_images.html",
+          "HTML/HTML05/formulario1.html",
+          "HTML/HTML05/ejercicio1.2/index.html",
+          "HTML/HTML05/ejercicio1.2/paginas/gusto.html",
+          "HTML/HTML05/ejercicio1.2/paginas/oido.html",
+          "HTML/HTML05/ejercicio1.2/paginas/olfato.html",
+          "HTML/HTML05/ejercicio1.2/paginas/tacto.html",
+          "HTML/HTML05/ejercicio1.2/paginas/vista.html",
+          "HTML/HTML06/ejercicio15.html",
+          "HTML/HTML06/ejercicio16.html",
+          "XML/XML01/ej1_01.xml",
+          "XML/XML01/ej1_02.xml",
+          "XML/XML01/ej1_03.xml",
+          "XML/XML01/ej1_04.xml",
+          "XML/XML01/ej1_05.xml",
+          "XML/XML01/ej1_06.xml",
+          "XML/XML01/ej1_07.xml",
+          "XML/XML02/ejercicio1XML.xml",
+          "XML/XML02/ejercicio2XML.xml",
+          "XML/XML02/ejercicio3XML.xml",
+          "XML/XML03/dtd_11.xml",
+          "XML/XML03/dtd_12.xml",
+          "XML/XML03/dtd_13.xml",
+          "XML/XML03/dtd_14.xml",
+          "XML/XML03/dtd_15.xml",
+          "XML/XML03/dtd_16.xml",
+          "XML/XML03/dtd_17.xml",
+          "XML/XML03/dtd_18.xml",
+          "XML/XML03/dtd_19.xml",
+          "XML/XML04/dtd_21.xml",
+          "XML/XML04/dtd_22.xml",
+          "XML/XML04/dtd_23.xml",
+          "XML/XML04/dtd_24.xml",
+          "XML/XML04/dtd_25.xml",
+          "XML/XML04/dtd_26.xml",
+          "XML/XML04/dtd_27.xml",
+          "XML/XML04/dtd_28.xml",
+          "XML/XML04/dtd_29.xml",
+          "XML/XML05/dtd_31.xml",
+          "XML/XML05/dtd_32.xml",
+          "XML/XML05/dtd_33.xml",
+          "XML/XML05/dtd_34.xml",
+          "XML/XML05/dtd_35.xml",
+          "XML/XML05/dtd_36.xml",
+          "XML/XML06/dtd_41.xml",
+          "XML/XML06/dtd_42.xml",
+          "XML/XML06/dtd_43.xml",
+          "XML/XML06/dtd_44.xml",
+          "XML/XML06/dtd_45.xml",
+          "XML/XML07/ejercicio1.xml",
+          "XML/XML07/ejercicio2.xml",
+          "XML/XML07/ejercicio3.xml",
+          "XML/XML08/curriculum.xml",
+          "XML/XML08/libros.xml",
+          "XML/XML09/cartelera.xml",
+          "XML/XML10/personas.xml",
+        ];
+
+        const fileList = document.getElementById("file-list");
+        files.forEach((file) => {
+          const link = document.createElement("a");
+          link.href = file;
+          link.className = "button";
+          link.textContent = file.split("/").pop();
+          fileList.appendChild(link);
+        });
+      });
+    </script>
+  </body>
+</html>
