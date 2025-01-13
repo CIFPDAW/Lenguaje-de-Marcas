@@ -343,4 +343,31 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 - Recursos:
   > [Recurso](CSS/CSS01/ejercicio2.pdf "a title")
 
+## 13 de Enero
+
+- [Ejercicio 1](CSS/CSS02/ejercicio1.html)
+- CSS:
+  > [Recurso](CSS/CSS02/ejercicio1.css "a title")
+- Recursos:
+  > [Recurso](CSS/CSS02/ejercicio1.png "a title")
+
+- [Ejercicio 2](CSS/CSS02/ejercicio2.html)
+- CSS:
+  > [Recurso](CSS/CSS02/ejercicio2.css "a title")
+- Recursos:
+  > [Recurso](CSS/CSS02/ejercicio2.png "a title")
+
+- [Ejercicio 3](CSS/CSS02/ejercicio3.html)
+- CSS:
+  > [Recurso](CSS/CSS02/ejercicio3.css "a title")
+- Recursos:
+  > [Recurso](CSS/CSS02/ejercicio3.png "a title")
+
+- [Ejercicio 4](CSS/CSS02/ejercicio4.html)
+- CSS:
+  > [Recurso](CSS/CSS02/ejercicio4.css "a title")
+- Recursos:
+  > [Recurso](CSS/CSS02/ejercicio4.png "a title")
+
+
 </details>
