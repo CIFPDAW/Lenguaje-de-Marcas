@@ -1,0 +1,103 @@
+body{
+    background-color: #e2ddd8;
+}
+
+.cabecera{
+    background-color: #669966;
+    color: white;
+    text-align: right;
+    margin-bottom: 0px;
+}
+
+h1{
+    background-color: #d4b8b8;
+    margin-top: 0px;
+    text-align: center;
+    font-variant: small-caps;
+    letter-spacing: 5px;
+    text-decoration: underline;
+}
+
+.intro{
+    border-right: 3px dotted #729f71;
+    border-left: 3px dotted #729f71;
+    justify-content: center;
+    padding: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 25px;
+}
+
+.intro p{
+    font-family: Comic Sans MS;
+    text-align: justify;
+}
+
+p{
+    text-indent: 10px;
+}
+
+.par{
+    margin-left: 400px;
+    border: 5px solid #660000;
+    margin-top: 10px;
+    background-color: #d4b8b8;
+    /* padding: 10px; */
+}
+
+.impar{
+    margin-right: 400px;
+    border: 5px solid #669966;
+    margin-top: 10px;
+    background-color: #c8dac8;
+    /* padding: 10px; */
+}
+
+.par h2{
+    color: white;
+    background-color: #660000;
+    margin-top: 0px;
+    padding: 5px;
+
+}
+
+.par p{
+    padding: 5px;
+}
+
+.impar h2{
+    color: white;
+    background-color: #669966;
+    margin-top: 0px;
+    padding: 5px;
+}
+
+.impar p{
+    padding: 5px;
+}
+
+address{
+    border-top: 2px double #af7b7b;
+    background-color: #d4b8b8;
+    margin-top: 10px;
+}
+
+.organismo{
+    background-color: black;
+    color: white;
+    padding: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.proyecto{
+    font-weight: bold;
+    font-family: Comic Sans MS;
+    font-style: italic;
+    border-bottom: 2px dashed white;
+}
+
+.persona {
+    font-weight: bold;
+    text-decoration: 2px underline black;
+}

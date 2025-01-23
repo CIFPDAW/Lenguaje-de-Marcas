@@ -377,4 +377,12 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 - Recursos:
   > [Recurso](CSS/CSS03/ejercicio1.pdf "a title")
 
+## 20 de Enero
+
+- [Ejecicio 1](CSS/CSS04/ejercicio1.html)
+- CSS:
+  > [Recurso](CSS/CSS04/ejercicio1.css "a title")
+- Recursos:
+  > [Recurso](CSS/CSS04/ejercicio1.pdf "a title")
+
 </details>
