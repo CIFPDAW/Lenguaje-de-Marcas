@@ -1,0 +1,49 @@
+html{
+    background-color:lightyellow;
+    background-image: url("./img/notepad.jpg");
+    background-repeat: repeat-y;
+}
+
+body{
+    margin-left: 135px;
+}
+
+h1 {
+    background-color: teal;
+    color: white;
+    padding-left: 50px;
+    margin-left: 5px;
+}
+
+h2 {
+    background-color: salmon;
+    color: white;
+    padding-left: 50px;
+}
+
+div{
+    color: red;
+}
+
+a{
+    color:lime;
+}
+
+p {
+    color: black;
+    margin-left: 40px;
+}
+
+ul{
+    background-color:lightblue;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: black;
+}
+
+li{
+    padding: 15px;
+    background-color: white;
+    border: 2px dashed blue;
+    margin-top: 10px;
+}
