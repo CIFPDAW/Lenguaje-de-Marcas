@@ -1,0 +1,46 @@
+body {
+    background-color: #95E1FF;
+    font-family: Arial, sans-serif;
+}
+
+caption
+{
+    font-style: italic;
+    font-family: sans-serif;
+    text-decoration:overline;
+    text-align: center;    
+}
+.nov14 {
+    background-color: #FFFFEE;
+    width: 400px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.nov14 table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.nov14 caption {
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-style: italic;
+}
+
+.nov14 th {
+    font-weight: normal;
+    padding: 5px;
+    text-align: center;
+}
+
+.nov14 td {
+    padding: 5px;
+    text-align: center;
+    border-bottom: 1px solid blue;
+}
+
+/* Estilo para celdas vacías */
+.nov14 td:empty {
+    background-color: #FFFFEE;
+}

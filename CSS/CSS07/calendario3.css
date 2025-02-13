@@ -1,0 +1,37 @@
+body
+{
+    background-color: #95E1FF;
+}
+.nov14
+{
+    background-color: lightyellow;
+    border: 1px solid black;
+    margin-right: 500px;
+}
+table
+{
+    margin: 30px;
+    border-collapse: collapse;
+}
+caption
+{
+    text-align: left;   
+    font-size: 1em;
+    font-style:inherit;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 5px; 
+}
+tr
+{
+    font-family: sans-serif;
+}
+td, th
+{
+    font-family: sans-serif;
+    text-align: left;
+    padding-bottom: 15px;
+    width: 50px;
+    padding: 10px;
+    border: 1px solid black;
+}
