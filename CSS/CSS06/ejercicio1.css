@@ -1,0 +1,24 @@
+/* Enlaces no visitados */
+a:link {
+    color: #CC0000;
+    text-decoration: none;
+}
+
+/* Enlaces visitados */
+a:visited {
+    color: #CCC;
+}
+
+/* Cuando el usuario pasa el ratón sobre el enlace */
+a:hover {
+    background-color: #CC0000;
+    color: #FFF;
+    padding: 2px 4px;
+    border-radius: 4px;
+}
+
+/* Cuando el usuario hace clic sobre el enlace */
+a:active {
+    color: yellow;
+    background-color: #990000;
+}
