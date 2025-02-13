@@ -1,0 +1,55 @@
+.Carta{
+    width: 220px;
+    height: 300px;
+    position: absolute;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.Carta1{
+    background-image: url("img/d_as.gif");
+    top: 50px;
+    left: 50px;
+    z-index: 5;
+}
+
+.Carta2{
+    background-image: url("img/d_rey.gif");
+    top: 25px;
+    left: 25px;
+    z-index: 4;
+}
+
+.Carta3{
+    background-image: url("img/d_reina.gif");
+    z-index: 3;
+}
+
+.Carta4{
+    background-image: url("img/d_j.gif");
+    top: -25px;
+    left: -25px;
+    z-index: 2;
+}
+
+.Carta5{
+    background-image: url("img/d_10.gif");
+    top: -50px;
+    left: -50px;
+    z-index: 1;
+}
+
+.Cartas {
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+
+.Carta:hover {
+    border: 3px solid red;
+}
+
+.Carta:active {
+    z-index: 8;
+}
