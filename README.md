@@ -401,7 +401,7 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 - Recursos:
   > [Recurso](CSS/CSS06/ejercicio1.pdf "a title")
 
-## 30 de Enero
+## 3 de Febrero
 
 - [Ejercicio 1](CSS/CSS07/calendario1.html)
 - CSS:
