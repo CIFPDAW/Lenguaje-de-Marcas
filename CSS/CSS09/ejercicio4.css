@@ -1,0 +1,50 @@
+h1{
+    background-color: gray;
+    margin: 0;
+}
+h2{
+    background-color: lightgrey;
+    text-align: right;
+    border-bottom: 1px dashed gray;
+    margin: 0;
+}
+
+h3{
+    margin: 0;
+    background-color: rgb(218, 218, 218);
+    padding: 5px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    text-align: center;
+    /* Tamaño de la fuente */
+    font-size: 1em;
+}
+
+.bloque{
+    margin-top: 10px;
+    margin-left: 5px;
+    padding: 10px;
+    position: relative;
+    border-left: 2px dashed gray;
+    border-right: 2px dashed gray;
+    float: left;
+}
+
+.bloque div{
+    border: 2px solid black;
+    width: 160px;
+    margin-bottom: 10px;
+}
+h4{
+    margin: 0;
+    background-color: rgb(146, 146, 146);
+    text-align: right;
+    color: white;
+}
+
+p{
+    margin-left: 4px;
+    overflow-x: auto;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}

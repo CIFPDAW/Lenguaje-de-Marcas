@@ -1,0 +1,41 @@
+body
+{
+    background-color:antiquewhite;
+}
+h1
+{
+    text-align: center;
+    color:rgb(107, 174, 246);
+}
+div
+{
+    background-color: rgb(255, 209, 149);
+    border: 2px dotted rgb(215, 154, 74);
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 10px;
+    margin-bottom: 40px;
+    width: 160px;
+    height: 200px;
+    float: left;
+    text-align: justify;
+}
+h2
+{
+    background-color: rgb(215, 154, 74);
+    color: rgb(175, 240, 240);
+    position: relative;
+    bottom: 55px;
+    font-style: italic;
+    text-align:center;
+}
+p
+{
+    text-align: justify;
+}
+p::first-letter
+{
+    font-size: xx-large;
+    color: rgb(193, 129, 46);
+    font-family: 'Courier New', Courier, monospace;
+}
