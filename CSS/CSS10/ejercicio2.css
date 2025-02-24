@@ -1,0 +1,40 @@
+#imagen {
+  background-image: url("./img/perrito.jpeg");
+  background-repeat: no-repeat;
+  height: 500px;
+  width: 500px;
+  left: 0%;
+  position: relative;
+}
+
+h1{
+    text-align: center;
+}
+
+div {
+  text-align: center;
+  position: absolute;
+  bottom: 0px;
+  width: 80%;
+  left: 10%;
+  margin: 0;
+}
+
+
+h2 {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  margin: 0;
+}
+h3 {
+  display: none;
+  color: white;
+  background-color: rgba(152, 67, 67, 0.8);
+  padding: 10px;
+  margin: 0;
+}
+
+#imagen:hover h3 {
+  display: block; /* Mostramos h3 cuando hay hover */
+}

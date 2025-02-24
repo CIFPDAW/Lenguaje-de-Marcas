@@ -471,6 +471,11 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
   > [Recurso](CSS/CSS10/ejercicio1.css "a title")
 - Recursos:
   > [Recurso](CSS/CSS10/ejercicio1.pdf "a title")
+- [Ejercicio 2](CSS/CSS10/ejercicio2.html)
+- CSS:
+  > [Recurso](CSS/CSS10/ejercicio2.css "a title")
+- Recursos:
+  > [Recurso](CSS/CSS10/ejercicio2.pdf "a title")
 
 ## 17 de Febrero
 
