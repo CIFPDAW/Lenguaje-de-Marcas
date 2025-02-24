@@ -485,4 +485,18 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 - Recursos:
   > [Recurso](CSS/CSS11/ejercicio2.png "a title")
 
+## 24 de Febrero
+
+- [Ejercicio 1](CSS/CSS12/ejercicio1.html)
+- CSS:
+  > [Recurso](CSS/CSS12/ejercicio1.css "a title")
+- Recursos:
+  > [Recurso](CSS/CSS12/ejercicio1.png "a title")
+- [Ejercicio 2](CSS/CSS12/ejercicio2.html)
+- CSS:
+  > [Recurso](CSS/CSS12/ejercicio2.css "a title")
+- Recursos:
+  > [Recurso](CSS/CSS12/ejercicio2_1.png "a title") 
+  > [Recurso](CSS/CSS12/ejercicio2_2.png "a title")
+
 </details>

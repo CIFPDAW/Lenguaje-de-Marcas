@@ -1,0 +1,68 @@
+div{
+    border: 3px solid black;
+    border-radius: 20px;
+    width: 100px;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    background-color: orange;
+    float: left;
+}
+
+img{
+    width: 100px;
+}
+
+h2{
+    /* Reducir tamaño de la letra */
+    font-size: 1em;
+}
+
+#rotar1{
+    transform: rotate(50deg);
+}
+
+#rotar2{
+    transform: rotate(-50deg);
+}
+
+#escala1{
+    transform: scale(0.5);
+}
+
+#escala2{
+    transform: scale(0.5, 1);
+}
+
+#skewX1{
+    transform: skewX(30deg);
+    margin-left: 40px;
+}
+
+#skewX2{
+    transform: skewX(-30deg);
+    margin-left: 50px;
+}
+
+#skewY1{
+    transform: skewY(30deg);
+    margin-left: 40px;
+}
+
+#skewY2{
+    transform: skewY(-30deg);
+    margin-left: 50px;
+}
+
+#translate1{
+    transform: translate(15px, 25px);
+}
+
+#translate2{
+    transform: translate(15px, -25px);
+}
+
+#contentBox1:hover{
+    transform: skewX(-30deg);
+
+}

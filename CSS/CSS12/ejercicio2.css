@@ -1,0 +1,43 @@
+img {
+  position: absolute;
+  left: 200px;
+  transition: all 0.5s ease;
+}
+
+#carta {
+  z-index: 2;
+}
+
+#cd {
+  z-index: 1;
+  transform: rotate(0deg);
+}
+
+h6 {
+  position: relative;
+  left: 192px;
+  top: 300px;
+  z-index: 5;
+}
+
+h5 {
+  position: absolute;
+  left: 200px;
+  top: 30px;
+  width: 75px;
+  height: 15px;
+  z-index: 5;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  padding: 5px;
+  transform: scale(0);
+}
+
+#carta:hover + #cd {
+  transform: translateX(150px) rotate(180deg);
+}
+
+#carta:hover ~ h5 {
+    transform: scale(1);
+    transition: all 0.5s ease;
+}
