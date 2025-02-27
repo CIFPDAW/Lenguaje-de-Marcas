@@ -1,0 +1,26 @@
+#nino {
+    z-index: 1;
+    width: 400px;
+    position: relative;
+}
+
+#yoyo {
+    width: 50px;
+    transition: all 0.5s ease;
+}
+
+#nino:hover ~ .yoyoContainer img{
+    transform: translateY(-100px);
+}
+
+#yoyo:hover{
+    transform: translateY(-100px);
+}
+
+#yoyoContainer{
+    z-index: 2;
+    position: absolute;
+    left: 144px;
+    top: 210px;
+    overflow: hidden;
+}
