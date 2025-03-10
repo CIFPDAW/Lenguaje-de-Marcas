@@ -280,6 +280,8 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 - Recursos:
   > [Recurso](HTML/HTML03/ejercicio12.pdf "a title")
 
+---
+
 ## 05 de Dic
 
 Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicitado.
@@ -298,6 +300,8 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 - Recursos:
   > [Recurso](HTML/HTML04/ejercicio1.1.pdf "a title")
 
+---
+
 ## 12 de Dic
 
 - [Ejercicio 1](HTML/HTML05/ejercicio1.2/index.html)
@@ -309,6 +313,8 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 - Recursos:
   > [Recurso](HTML/HTML05/formulario1.pdf "a title")
 
+---
+
 ## 16 de Dic
 
 - [Ejercicio 1](HTML/HTML06/ejercicio15.html)
@@ -319,6 +325,8 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 - [Ejercicio 2](HTML/HTML06/ejercicio16.html)
 - Recursos:
   > [Recurso](HTML/HTML06/ejercicio16.pdf "a title")
+
+---
 
 ## 9 de Enero
 
@@ -347,6 +355,8 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
   > [Recurso](CSS/CSS01/ejercicio2.css "a title")
 - Recursos:
   > [Recurso](CSS/CSS01/ejercicio2.pdf "a title")
+
+---
 
 ## 13 de Enero
 
@@ -377,6 +387,8 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 - Recursos:
   > [Recurso](CSS/CSS02/ejercicio4.png "a title")
 
+---
+
 ## 16 de Enero
 
 - [Ejercicio 1](CSS/CSS03/ejercicio1.html)
@@ -384,6 +396,8 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
   > [Recurso](CSS/CSS03/ejercicio1.css "a title")
 - Recursos:
   > [Recurso](CSS/CSS03/ejercicio1.pdf "a title")
+
+---
 
 ## 20 de Enero
 
@@ -393,6 +407,8 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 - Recursos:
   > [Recurso](CSS/CSS04/ejercicio1.pdf "a title")
 
+---
+
 ## 23 de Enero
 
 - [Ejercicio 1](CSS/CSS05/ejercicio1.html)
@@ -401,6 +417,8 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 - Recursos:
   > [Recurso](CSS/CSS05/ejercicio1.png "a title")
 
+---
+
 ## 27 de Enero
 
 - [Ejercicio 1](CSS/CSS06/ejercicio1.html)
@@ -408,6 +426,8 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
   > [Recurso](CSS/CSS06/ejercicio1.css "a title")
 - Recursos:
   > [Recurso](CSS/CSS06/ejercicio1.pdf "a title")
+
+---
 
 ## 3 de Febrero
 
@@ -428,6 +448,8 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 - Recursos:
   > [Recurso](CSS/CSS07/calendario.pdf "a title")
 
+---
+
 ## 6 de Febrero
 
 - [Ejercicio 1](CSS/CSS08/ejercicio1.html)
@@ -440,6 +462,8 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
   > [Recurso](CSS/CSS08/ejercicio2.css "a title")
 - Recursos:
   > [Recurso](CSS/CSS08/ejercicio2.pdf "a title")
+
+---
 
 ## 10 de Febrero
 
@@ -464,6 +488,8 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 - Recursos:
   > [Recurso](CSS/CSS09/ejercicio4.pdf "a title")
 
+---
+
 ## 13 de Febrero
 
 - [Ejercicio 1](CSS/CSS10/ejercicio1.html)
@@ -477,6 +503,8 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
 - Recursos:
   > [Recurso](CSS/CSS10/ejercicio2.pdf "a title")
 
+---
+
 ## 17 de Febrero
 
 - [Ejercicio 1](CSS/CSS11/ejercicio1.html)
@@ -489,6 +517,8 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
   > [Recurso](CSS/CSS11/ejercicio2.css "a title")
 - Recursos:
   > [Recurso](CSS/CSS11/ejercicio2.png "a title")
+
+---
 
 ## 24 de Febrero
 
@@ -508,6 +538,8 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
   > [Recurso](CSS/CSS12/ejercicio3.css "a title")
 - Recursos:
   > [Recurso](CSS/CSS12/ejercicio3.png "a title")
+
+---
 
 ## 27 de Febrero
 
