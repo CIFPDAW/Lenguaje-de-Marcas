@@ -508,4 +508,34 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
   > [Recurso](CSS/CSS12/ejercicio3.css "a title")
 - Recursos:
   > [Recurso](CSS/CSS12/ejercicio3.png "a title")
+
+## 27 de Febrero
+
+- [Ejercicio 1](CSS/CSS13/ejercicio1.html)
+- CSS:
+  > [Recurso](CSS/CSS13/ejercicio1.css "a title")
+- Recursos:
+  > [Recurso](CSS/CSS13/ejercicio1.png "a title")
+- [Ejercicio 2](CSS/CSS13/ejercicio2.html)
+- CSS:
+  > [Recurso](CSS/CSS13/ejercicio2.css "a title")
+- Recursos:
+  > [Recurso](CSS/CSS13/ejercicio2.png "a title")
+- [Ejercicio 3](CSS/CSS13/ejercicio3.html)
+- CSS:
+  > [Recurso](CSS/CSS13/ejercicio3.css "a title")
+- Recursos:
+  > [Recurso](CSS/CSS13/ejercicio3.png "a title")
+- [Ejercicio 4](CSS/CSS13/ejercicio4.html)
+- CSS:
+  > [Recurso](CSS/CSS13/ejercicio4.css "a title")
+- Recursos:
+  > [Recurso](CSS/CSS13/ejercicio4-1.png "a title")
+  > [Recurso](CSS/CSS13/ejercicio4-2.png "a title")
+- [Ejercicio 5](CSS/CSS13/ejercicio5.html)
+- CSS:
+  > [Recurso](CSS/CSS13/ejercicio5.css "a title")
+- Recursos:
+  > [Recurso](CSS/CSS13/ejercicio5.pdf "a title")
+
 </details>

@@ -1,0 +1,16 @@
+td:nth-child(odd) {
+  background-color: black;
+}
+
+td {
+  padding: 10px;
+  border: solid black 1px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+h2::before{
+    content: "Columnas"
+}

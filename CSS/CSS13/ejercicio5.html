@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulario de Contacto</title>
+    <link href="ejercicio5.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Contacto</h1>
+      <p>Escribe!</p>
+
+      <form>
+        <fieldset>
+          <legend>Información</legend>
+          <p>
+            Nombre
+            <input type="text" name="nombre" value="" />
+          </p>
+          <p>
+            Email
+            <input type="text" name="email" value="" />
+          </p>
+          <p>
+            Telefono
+            <input type="text" name="tlf" value="" />
+          </p>
+          <p>
+            Direccion
+            <input type="text" name="dir" value="" />
+          </p>
+          <p>
+            <label for="comunidad">Comunidad</label>
+            <select name="comunidad">
+              <option value=""></option>
+              <option value="andalucia">Andalucía</option>
+              <option value="aragon">Aragón</option>
+              <option value="asturias">Principado de Asturias</option>
+              <option value="baleares">Islas Baleares</option>
+              <option value="pais_vasco">País Vasco</option>
+              <option value="canarias">Canarias</option>
+              <option value="cantabria">Cantabria</option>
+              <option value="castilla_la_mancha">Castilla-La Mancha</option>
+              <option value="castilla_leon">Castilla y León</option>
+              <option value="cataluna">Cataluña</option>
+              <option value="extremadura">Extremadura</option>
+              <option value="galicia">Galicia</option>
+              <option value="madrid">Comunidad de Madrid</option>
+              <option value="murcia">Región de Murcia</option>
+              <option value="navarra">Comunidad Foral de Navarra</option>
+              <option value="la_rioja">La Rioja</option>
+              <option value="valencia">Comunidad Valenciana</option>
+            </select>
+          </p>
+          <p>
+            Código Postal
+            <input type="text" name="dir" value="" />
+          </p>
+        </fieldset>
+      </form>
+      <form>
+        <fieldset>
+          <span> Pincha para recibir información: </span>
+          <input name="visitas" type="checkbox" />
+          <div class="info">
+            <input type="checkbox" id="tenerife" name="tema" value="Tenerife" />
+            <label for="tenerife">Tenerife</label><br />
+            <input
+              type="checkbox"
+              id="calma"
+              name="tema"
+              value="Tenerife Calma"
+            />
+            <label for="calma">Tenerife Calma</label><br />
+            <input
+              type="checkbox"
+              id="playas"
+              name="tema"
+              value="Tenerife playas"
+            />
+            <label for="playas">Tenerife playas</label><br />
+            <input
+              type="checkbox"
+              id="bici"
+              name="tema"
+              value="Bici Tenerife"
+            />
+            <label for="bici">Bici Tenerife</label><br />
+            <input
+              type="checkbox"
+              id="mar"
+              name="tema"
+              value="Tenerife del mar"
+            />
+            <label for="mar">Tenerife del mar</label><br />
+            <input
+              type="checkbox"
+              id="ninos"
+              name="tema"
+              value="Niños Tenerife"
+            />
+            <label for="ninos">Niños Tenerife</label><br />
+            <input
+              type="checkbox"
+              id="naturaleza"
+              name="tema"
+              value="Tenerife Naturaleza"
+            />
+            <label for="naturaleza">Tenerife Naturaleza</label><br />
+            <input
+              type="checkbox"
+              id="teide"
+              name="tema"
+              value="Tenerife Teide"
+            />
+            <label for="teide">Tenerife Teide</label><br />
+            <input
+              type="checkbox"
+              id="comida"
+              name="tema"
+              value="Comida Tenerife"
+            />
+            <label for="comida">Comida Tenerife</label><br />
+          </div>
+          <p>
+            <input type="submit" value="Enviar" />
+          </p>
+        </fieldset>
+      </form>
+    </div>
+  </body>
+</html>
