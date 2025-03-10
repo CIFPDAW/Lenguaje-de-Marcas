@@ -39,8 +39,3 @@ caption
     text-align: center;
     border-bottom: 1px solid blue;
 }
-
-/* Estilo para celdas vacías */
-.nov14 td:empty {
-    background-color: #FFFFEE;
-}
