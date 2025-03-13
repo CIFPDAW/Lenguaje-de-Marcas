@@ -1,0 +1,13 @@
+.fondo{
+    text-align: center;
+    font-size: larger;
+    color: white;
+    margin: auto;
+    width: 600px;
+    height: 635px;
+    background-image: url(./img/imagen1.png), url(./img/imagen2.png), url(./img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: 50px 50px, 200px 300px, 100% 100%;
+    background-position: 140px 120px, right bottom, center;
+    /* border: 1px solid black; */
+}
