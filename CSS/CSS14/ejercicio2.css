@@ -1,0 +1,37 @@
+div {
+  padding: 10px 20px;
+  display: inline-block;
+  margin-right: 20px;
+  font-size: 20px;
+  transition: all .5s;
+}
+
+input{
+    display: none;
+}
+
+label{
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px 30px;
+    background-color: rgb(177, 177, 177);
+}
+
+div div{
+    position: relative;
+    border: 2px solid black;
+    background-color: rgb(177, 177, 177);
+    top: 60px;
+    left: -130px;
+    height: 150px;
+    width: 100px;
+    transform: rotateY(90deg);
+}
+
+input:checked ~ label{
+    background-color: yellowgreen;
+}
+
+input:checked ~ div{
+    transform: rotateY(0deg);
+}
