@@ -549,6 +549,11 @@ Dado los enunciados debes reconstuir los HTML para que coincidan con lo solicita
   > [Recurso](CSS/CSS12/ejercicio4.css "a title")
 - Recursos:
   > [Recurso](CSS/CSS12/ejercicio4.png "a title")
+- [Ejercicio 5](CSS/CSS12/ejercicio5.html)
+- CSS:
+  > [Recurso](CSS/CSS12/ejercicio5.css "a title")
+- Recursos:
+  > [Recurso](CSS/CSS12/ejercicio5.png "a title")
 
 ---
 
