@@ -1,0 +1,61 @@
+<html>
+  <head>
+    <title>JavaScript y el Document Object Model</title>
+  </head>
+  <body>
+    <div id="page">
+      <div id="header"><h1 id="title">título</h1></div>
+      <div id="content">
+        <h2>contenido del titulo</h2>
+        <p>algo copiado iría aqui</p>
+        <p>más cosas aqui</p>
+      </div>
+    </div>
+    <script>
+      var nodo = document.body.children[0];
+      
+      // El propio nodo
+      alert("El propio nodo: " + nodo.nodeName);
+      
+      // Su hermano anterior
+      alert("Su hermano anterior: " + (nodo.previousSibling ? nodo.previousSibling.nodeName : "No tiene"));
+      
+      // Su hermano posterior
+      alert("Su hermano posterior: " + (nodo.nextSibling ? nodo.nextSibling.nodeName : "No tiene"));
+      
+      // El padre del nodo
+      alert("El padre del nodo: " + nodo.parentNode.nodeName);
+      
+      // ¿Tiene nodos hijo?
+      alert("¿Tiene nodos hijo?: " + (nodo.hasChildNodes() ? "Si" : "No"));
+      
+      // Número de hijos
+      alert("Número de hijos: " + nodo.childNodes.length);
+      
+      // Número de elementos que tiene 
+      var elementos = 0;
+      for (var i = 0; i < nodo.childNodes.length; i++) {
+        if (nodo.childNodes[i].nodeType === 1) {
+          elementos++;
+        }
+      }
+      alert("Número de elementos que tiene: " + elementos);
+      
+      // Primer hijo
+      alert("Primer hijo: " + nodo.firstChild.nodeName);
+      
+      // Segundo hijo
+      alert("Segundo hijo: " + (nodo.firstChild.nextSibling ? nodo.firstChild.nextSibling.nodeName : "No tiene"));
+      
+      // Primer elemento hijo
+      alert("Primer elemento hijo: " + nodo.firstElementChild.nodeName);
+      
+      // Primer elemento hijo de div (header)
+      var header = nodo.firstElementChild;
+      alert("Primer elemento hijo de div (header): " + header.firstElementChild.nodeName);
+      
+      // Número hijos de su primer elemento
+      alert("Número hijos de su primer elemento: " + header.childNodes.length);
+    </script>
+  </body>
+</html>
