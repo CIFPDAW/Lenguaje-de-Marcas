@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Ejercicio javascript 5</title>
+    <script type="text/javascript" src="index.js"></script>
+  </head>
+  <body>
+    <form onsubmit="return false;">
+      <input type="text" id="nuevo-elemento" placeholder="elemento" />
+      <br />
+      <button type="button" onclick="agregarElementoF()">añadir al final</button>
+      <button type="button" onclick="agregarElementoP()">
+        añadir al principio
+      </button>
+      <button type="button" onclick="eliminarElementoP()">
+        borrar el primero
+      </button>
+      <button type="button" onclick="eliminaElementoF()">
+        borrar el último
+      </button>
+      <button type="button" onclick="eliminarTodo()">borrar todos</button>
+    </form>
+
+    <ol></ol>
+  </body>
+</html>
