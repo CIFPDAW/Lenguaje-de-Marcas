@@ -160,10 +160,13 @@ function posicion() {
 
   const numCols = filas[0].cells.length;
 
-  x = Math.max(0, Math.min(x, numCols - 1));
-  y = Math.max(0, Math.min(y, numFilas - 1));
+  if (x < 0) x = 0;
+  if (x >= numCols) x = numCols - 1;
+  if (y < 0) y = 0;
+  if (y >= numFilas) y = numFilas - 1;
 
   const celda = filas[y].cells[x];
+  // console.log("Posición Celda", celda);
 
   const circulo = document.createElement("div");
   circulo.className = "circulo";
