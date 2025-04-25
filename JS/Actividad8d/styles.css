@@ -1,0 +1,46 @@
+#divTabla {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.circulo {
+  border-radius: 50%;
+  margin: auto;
+  display: block;
+}
+
+.fila,
+.celda {
+  border: solid;
+}
+
+#table {
+  margin-top: 20px;
+  border-collapse: collapse;
+  border: solid;
+  width: 500px;
+  height: 500px;
+}
+
+button {
+  margin-top: 20px;
+  margin: 4px 2px;
+}
+
+#botonesTable {
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+#celda21,
+#celda23 {
+  padding: 15px;
+}
+
+#celda12,
+#celda22,
+#celda32 {
+  padding: 15px;
+}
